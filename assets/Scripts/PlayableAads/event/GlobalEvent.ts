@@ -52,6 +52,8 @@ export class GlobalEvent extends BaseEvent {
     static readonly REMOVE_OPTION = "REMOVE_OPTION";
     static readonly SHOW_NEXT_OPTION = "SHOW_NEXT_OPTION";
     static readonly HIDE_OPTION = "HIDE_OPTION";
+    static readonly UPDATE_CHIP = "UPDATE_CHIP";
+    static readonly DOWN_CHIP = "DOWN_CHIP";
 
 
 

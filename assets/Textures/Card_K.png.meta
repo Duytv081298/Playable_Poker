@@ -2,7 +2,7 @@
   "ver": "1.0.27",
   "importer": "image",
   "imported": true,
-  "uuid": "22142ce7-f4ce-487a-9010-b71661cc8ae1",
+  "uuid": "9fca78cf-0038-4b06-a406-9908fb8c2cc5",
   "files": [
     ".json",
     ".png"
@@ -10,14 +10,14 @@
   "subMetas": {
     "6c48a": {
       "importer": "texture",
-      "uuid": "22142ce7-f4ce-487a-9010-b71661cc8ae1@6c48a",
-      "displayName": "Card_Back",
+      "uuid": "9fca78cf-0038-4b06-a406-9908fb8c2cc5@6c48a",
+      "displayName": "Card_K",
       "id": "6c48a",
       "name": "texture",
       "userData": {
         "wrapModeS": "clamp-to-edge",
         "wrapModeT": "clamp-to-edge",
-        "imageUuidOrDatabaseUri": "22142ce7-f4ce-487a-9010-b71661cc8ae1",
+        "imageUuidOrDatabaseUri": "9fca78cf-0038-4b06-a406-9908fb8c2cc5",
         "isUuid": true,
         "visible": false,
         "minfilter": "linear",
@@ -34,8 +34,8 @@
     },
     "f9941": {
       "importer": "sprite-frame",
-      "uuid": "22142ce7-f4ce-487a-9010-b71661cc8ae1@f9941",
-      "displayName": "Card_Back",
+      "uuid": "9fca78cf-0038-4b06-a406-9908fb8c2cc5@f9941",
+      "displayName": "Card_K",
       "id": "f9941",
       "name": "spriteFrame",
       "userData": {
@@ -114,7 +114,7 @@
           ]
         },
         "isUuid": true,
-        "imageUuidOrDatabaseUri": "22142ce7-f4ce-487a-9010-b71661cc8ae1@6c48a",
+        "imageUuidOrDatabaseUri": "9fca78cf-0038-4b06-a406-9908fb8c2cc5@6c48a",
         "atlasUuid": ""
       },
       "ver": "1.0.12",
@@ -129,6 +129,6 @@
     "type": "sprite-frame",
     "hasAlpha": true,
     "fixAlphaTransparencyArtifacts": false,
-    "redirect": "22142ce7-f4ce-487a-9010-b71661cc8ae1@6c48a"
+    "redirect": "9fca78cf-0038-4b06-a406-9908fb8c2cc5@6c48a"
   }
 }
