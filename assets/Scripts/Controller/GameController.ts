@@ -4,6 +4,8 @@ import { Chip } from '../Object/Chip';
 import { Tutorial } from '../Object/Tutorial';
 import { ButtonController } from './ButtonController';
 import { RoyalFlush } from './RoyalFlush';
+import { AudioManager } from './AudioManager';
+import { Constant } from '../Config/Constant';
 const { ccclass, property } = _decorator;
 
 @ccclass('GameController')
@@ -30,6 +32,10 @@ export class GameController extends Component {
     @property(Chip)
     chipBet: Chip = null;
 
+    @property(Node)
+    coinUI: Node = null;
+
+
     indexStep: number = 0; // 0: dealer, 1: player, 2: flop, 3: turn, 4: river
 
 
@@ -41,12 +47,10 @@ export class GameController extends Component {
         this.buttonController.showButtonLobby();
         this.tutorial.showTutorial();
         console.log("showLobby");
-
     }
 
 
     onHandlePlay() {
-
         this.chipGame.downChip(10);
         this.chipBet.updateChip(10);
         this.showAllCardPlayer();
@@ -55,14 +59,21 @@ export class GameController extends Component {
         this.scheduleOnce(() => {
             this.buttonController.showButtonPreFlop();
         }, 1)
+
+        AudioManager.instance.playSoundFX(Constant.SFX_BET);
     }
     onHandleCheckPreFlop() {
         this.buttonController.showButtonFlop();
+
         for (let i = 0; i < 3; i++) {
-            let card: Card = this.listCommunityCard[i];
-            card.showCard();
+            this.scheduleOnce(() => {
+                let card: Card = this.listCommunityCard[i];
+                card.showCard();
+            }, 0.2 * i);
         }
+        AudioManager.instance.playSoundFX(Constant.SFX_CHECK);
     }
+
     onHandleX3PreFlop() {
         this.chipGame.downChip(30);
         this.chipBet.updateChip(30);
@@ -71,10 +82,14 @@ export class GameController extends Component {
         this.scheduleOnce(() => {
             this.buttonController.showButtonFlop();
             for (let i = 0; i < 3; i++) {
-                let card: Card = this.listCommunityCard[i];
-                card.showCard();
+                this.scheduleOnce(() => {
+                    let card: Card = this.listCommunityCard[i];
+                    card.showCard();
+                }, 0.2 * i)
             }
-        }, 1)
+        }, 0.5)
+
+        AudioManager.instance.playSoundFX(Constant.SFX_BET);
     }
 
     onHandleCheckFlop() {
@@ -82,6 +97,8 @@ export class GameController extends Component {
 
         let card: Card = this.listCommunityCard[3];
         if (card) card.showCard();
+
+        AudioManager.instance.playSoundFX(Constant.SFX_CHECK);
     }
     onHandleX3Flop() {
         this.chipGame.downChip(120);
@@ -94,6 +111,8 @@ export class GameController extends Component {
         this.scheduleOnce(() => {
             this.buttonController.showButtonTurn();
         }, 1)
+
+        AudioManager.instance.playSoundFX(Constant.SFX_BET);
     }
 
 
@@ -102,6 +121,8 @@ export class GameController extends Component {
 
         let card: Card = this.listCommunityCard[4];
         if (card) card.showCard();
+
+        AudioManager.instance.playSoundFX(Constant.SFX_CHECK);
     }
     onHandleX3Turn() {
         this.chipGame.downChip(480);
@@ -113,6 +134,8 @@ export class GameController extends Component {
         this.scheduleOnce(() => {
             this.buttonController.showButtonRiver();
         }, 1)
+
+        AudioManager.instance.playSoundFX(Constant.SFX_CHECK);
     }
 
 
@@ -131,6 +154,8 @@ export class GameController extends Component {
         this.buttonController.clearAllButton(true);
         this.openCardDealer();
         this.showRoyalFlush();
+
+        AudioManager.instance.playSoundFX(Constant.SFX_ALL_IN);
     }
 
     showAllCardPlayer() {
@@ -154,6 +179,11 @@ export class GameController extends Component {
     }
 
     showRoyalFlush() {
+        AudioManager.instance.stopBGM();
+        AudioManager.instance.playSoundFX(Constant.SFX_WIN);
+        AudioManager.instance.playSoundFX(Constant.SFX_MONEY);
+
+        this.coinUI.active = true;
         this.royalFlush.show();
         this.showAllOutLineCard()
     }
