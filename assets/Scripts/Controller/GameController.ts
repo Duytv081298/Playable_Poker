@@ -1,11 +1,12 @@
-import { _decorator, Component, Node } from 'cc';
+import { _decorator, Component, Node, ParticleSystem } from 'cc';
 import { Card } from '../Object/Card';
 import { Chip } from '../Object/Chip';
 import { Tutorial } from '../Object/Tutorial';
 import { ButtonController } from './ButtonController';
 import { RoyalFlush } from './RoyalFlush';
-import { AudioManager } from './AudioManager';
 import { Constant } from '../Config/Constant';
+import { GameConfig } from '../Config/GameConfig';
+import { SoundManager } from '../PlayableAads/SoundManager';
 const { ccclass, property } = _decorator;
 
 @ccclass('GameController')
@@ -51,6 +52,7 @@ export class GameController extends Component {
 
 
     onHandlePlay() {
+        SoundManager.instance().playBackgroundMusic();
         this.chipGame.downChip(10);
         this.chipBet.updateChip(10);
         this.showAllCardPlayer();
@@ -60,7 +62,7 @@ export class GameController extends Component {
             this.buttonController.showButtonPreFlop();
         }, 1)
 
-        AudioManager.instance.playSoundFX(Constant.SFX_BET);
+        SoundManager.instance().playEffect(Constant.SFX_BET);
     }
     onHandleCheckPreFlop() {
         this.buttonController.showButtonFlop();
@@ -69,9 +71,9 @@ export class GameController extends Component {
             this.scheduleOnce(() => {
                 let card: Card = this.listCommunityCard[i];
                 card.showCard();
-            }, 0.2 * i);
+            }, GameConfig.DELAY_SHOW_CARD * i);
         }
-        AudioManager.instance.playSoundFX(Constant.SFX_CHECK);
+        SoundManager.instance().playEffect(Constant.SFX_CHECK);
     }
 
     onHandleX3PreFlop() {
@@ -85,11 +87,11 @@ export class GameController extends Component {
                 this.scheduleOnce(() => {
                     let card: Card = this.listCommunityCard[i];
                     card.showCard();
-                }, 0.2 * i)
+                }, GameConfig.DELAY_SHOW_CARD * i)
             }
         }, 0.5)
 
-        AudioManager.instance.playSoundFX(Constant.SFX_BET);
+        SoundManager.instance().playEffect(Constant.SFX_BET);
     }
 
     onHandleCheckFlop() {
@@ -98,7 +100,7 @@ export class GameController extends Component {
         let card: Card = this.listCommunityCard[3];
         if (card) card.showCard();
 
-        AudioManager.instance.playSoundFX(Constant.SFX_CHECK);
+        SoundManager.instance().playEffect(Constant.SFX_CHECK);
     }
     onHandleX3Flop() {
         this.chipGame.downChip(120);
@@ -112,7 +114,7 @@ export class GameController extends Component {
             this.buttonController.showButtonTurn();
         }, 1)
 
-        AudioManager.instance.playSoundFX(Constant.SFX_BET);
+        SoundManager.instance().playEffect(Constant.SFX_BET);
     }
 
 
@@ -122,7 +124,7 @@ export class GameController extends Component {
         let card: Card = this.listCommunityCard[4];
         if (card) card.showCard();
 
-        AudioManager.instance.playSoundFX(Constant.SFX_CHECK);
+        SoundManager.instance().playEffect(Constant.SFX_CHECK);
     }
     onHandleX3Turn() {
         this.chipGame.downChip(480);
@@ -135,7 +137,7 @@ export class GameController extends Component {
             this.buttonController.showButtonRiver();
         }, 1)
 
-        AudioManager.instance.playSoundFX(Constant.SFX_CHECK);
+        SoundManager.instance().playEffect(Constant.SFX_CHECK);
     }
 
 
@@ -155,18 +157,22 @@ export class GameController extends Component {
         this.openCardDealer();
         this.showRoyalFlush();
 
-        AudioManager.instance.playSoundFX(Constant.SFX_ALL_IN);
+        SoundManager.instance().playEffect(Constant.SFX_ALL_IN);
     }
 
     showAllCardPlayer() {
-        this.listCardPlayer.forEach(card => {
-            card.showCard();
+        this.listCardPlayer.forEach((card, i) => {
+            this.scheduleOnce(() => {
+                card.showCard();
+            }, GameConfig.DELAY_SHOW_CARD * i);
         });
     }
 
     openCardDealer() {
-        this.listCardDealer.forEach(card => {
-            card.showCard();
+        this.listCardDealer.forEach((card, i) => {
+            this.scheduleOnce(() => {
+                card.showCard();
+            }, GameConfig.DELAY_SHOW_CARD * i);
         });
     }
     showAllOutLineCard() {
@@ -179,13 +185,26 @@ export class GameController extends Component {
     }
 
     showRoyalFlush() {
-        AudioManager.instance.stopBGM();
-        AudioManager.instance.playSoundFX(Constant.SFX_WIN);
-        AudioManager.instance.playSoundFX(Constant.SFX_MONEY);
 
+
+        this.scheduleOnce(() => {
+            this.showParticleCoin();
+        }, 0.5)
+        this.scheduleOnce(() => {
+            SoundManager.instance().playEffect(Constant.SFX_WIN);
+            SoundManager.instance().playEffect(Constant.SFX_MONEY);
+            this.royalFlush.show();
+            this.showAllOutLineCard()
+        }, 1)
+    }
+    showParticleCoin() {
         this.coinUI.active = true;
-        this.royalFlush.show();
-        this.showAllOutLineCard()
+        let particles: ParticleSystem[] = this.coinUI.getComponentsInChildren(ParticleSystem);
+        console.log(particles);
+        particles.forEach(particle => {
+            particle.play();
+        });
+
     }
 
 }

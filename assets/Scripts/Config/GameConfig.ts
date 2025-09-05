@@ -30,6 +30,7 @@ export class GameConfig {
     public static SCALE_BALL_IN_BOX = new Vec3(0.9, 0.9, 0.9);
     public static SCALE_BALL_IN_SLOT = new Vec3(0.9, 0.9, 0.9);
     public static LAYER_TUTORIAL: number = 1 << 17;
+    public static DELAY_SHOW_CARD: number = 0.15;
 
     // public static MAX_BALL_MOVE_HOLE = 4;
 

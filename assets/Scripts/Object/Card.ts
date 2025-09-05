@@ -1,6 +1,6 @@
 import { _decorator, Component, Node, tween, Tween, UIOpacity, Vec3 } from 'cc';
-import { AudioManager } from '../Controller/AudioManager';
 import { Constant } from '../Config/Constant';
+import { SoundManager } from '../PlayableAads/SoundManager';
 const { ccclass, property } = _decorator;
 
 @ccclass('Card')
@@ -54,7 +54,7 @@ export class Card extends Component {
             .to(0.15, { scale: this.defaultScale })
             .start();
 
-        AudioManager.instance.playSoundFX(Constant.SFX_CARD_FLIP);
+        SoundManager.instance().playEffect(Constant.SFX_CARD_FLIP);
     }
 
     showOutLine() {

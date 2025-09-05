@@ -1,0 +1,90 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Dealer_profile",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 223,
+      "height": 218
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 223,
+      "height": 218
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "vertices": {
+      "rawPosition": [
+        -111.5,
+        -109,
+        0,
+        111.5,
+        -109,
+        0,
+        -111.5,
+        109,
+        0,
+        111.5,
+        109,
+        0
+      ],
+      "indexes": [
+        0,
+        1,
+        2,
+        2,
+        1,
+        3
+      ],
+      "uv": [
+        0,
+        218,
+        223,
+        218,
+        0,
+        0,
+        223,
+        0
+      ],
+      "nuv": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        1,
+        1
+      ],
+      "minPos": {
+        "x": -111.5,
+        "y": -109,
+        "z": 0
+      },
+      "maxPos": {
+        "x": 111.5,
+        "y": 109,
+        "z": 0
+      }
+    },
+    "texture": "f55af625-2c96-47d6-82b0-3e15160a1534@6c48a",
+    "packable": true,
+    "pixelsToUnit": 100,
+    "pivot": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "meshType": 0
+  }
+}

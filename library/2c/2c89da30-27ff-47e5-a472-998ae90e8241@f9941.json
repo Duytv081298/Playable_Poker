@@ -1,0 +1,90 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Energy 016 Hit Explosion_00003",
+    "atlas": "",
+    "rect": {
+      "x": 80,
+      "y": 83,
+      "width": 91,
+      "height": 83
+    },
+    "offset": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "originalSize": {
+      "width": 250,
+      "height": 250
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "vertices": {
+      "rawPosition": [
+        -45.5,
+        -41.5,
+        0,
+        45.5,
+        -41.5,
+        0,
+        -45.5,
+        41.5,
+        0,
+        45.5,
+        41.5,
+        0
+      ],
+      "indexes": [
+        0,
+        1,
+        2,
+        2,
+        1,
+        3
+      ],
+      "uv": [
+        80,
+        167,
+        171,
+        167,
+        80,
+        84,
+        171,
+        84
+      ],
+      "nuv": [
+        0.32,
+        0.336,
+        0.684,
+        0.336,
+        0.32,
+        0.668,
+        0.684,
+        0.668
+      ],
+      "minPos": {
+        "x": -45.5,
+        "y": -41.5,
+        "z": 0
+      },
+      "maxPos": {
+        "x": 45.5,
+        "y": 41.5,
+        "z": 0
+      }
+    },
+    "texture": "2c89da30-27ff-47e5-a472-998ae90e8241@6c48a",
+    "packable": true,
+    "pixelsToUnit": 100,
+    "pivot": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "meshType": 0
+  }
+}
