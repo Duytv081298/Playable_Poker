@@ -1820,6 +1820,1826 @@
     "D:\\Documents\\Cocos\\Playable_Poker\\assets\\Textures\\All\\textures.pac": {
       "time": 1743001296945.088,
       "uuid": "71139a73-0287-4c09-9a20-cfcb2c65e894"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Animation": {
+      "time": 1757070415437.7537,
+      "uuid": "0a856ffb-b6e8-4d6e-8bef-802ff6baca30"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio": {
+      "time": 1757070415586.7815,
+      "uuid": "495328ac-72f2-44b4-a3cb-c4d62143e522"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\effect": {
+      "time": 1757070415950.3228,
+      "uuid": "1f51d4b5-7c2a-4e9c-b2c6-e679cbd04b28"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Font": {
+      "time": 1757070415971.3257,
+      "uuid": "fd7bd329-ceea-4c94-b3e8-c0aec1efad7c"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Particle": {
+      "time": 1757070416027.8335,
+      "uuid": "07228985-9a4f-4de3-8a47-bf0edd45f2d9"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Prefab": {
+      "time": 1757070416036.833,
+      "uuid": "f8fdf4c6-a7d0-4261-8ef6-8c799dce14c1"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Scene": {
+      "time": 1757070416046.8325,
+      "uuid": "58e57aef-f2a7-4a81-b8f3-52be98bcdb59"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Scripts": {
+      "time": 1757070416180.85,
+      "uuid": "bf833f7a-2790-4929-9f88-f8557f17cdfe"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Texture": {
+      "time": 1757070416220.8538,
+      "uuid": "2464b796-4af7-41cd-bcfe-1cbd33c6bee2"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Textures": {
+      "time": 1757070416408.3354,
+      "uuid": "5ab15f14-8271-4881-a7f6-b77d35ccb8c3"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Animation\\Explosion": {
+      "time": 1757070415501.2747,
+      "uuid": "02389267-4e32-4a46-b8dc-6328cf213959"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\BGM & SFX": {
+      "time": 1757070415878.322,
+      "uuid": "6f751c77-8c1e-426a-8be1-f459153d24b9"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\effect\\changeColor": {
+      "time": 1757070415937.3218,
+      "uuid": "d047e0f7-035e-466c-98e1-f13f21086c8c"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\effect\\Gold": {
+      "time": 1757070415947.3215,
+      "uuid": "d22207f9-9af0-40a4-906e-e1950256be76"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\effect\\levelUp": {
+      "time": 1757070415961.3257,
+      "uuid": "5fa0ccc9-3a8f-46b8-8af3-23055257ee68"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Scripts\\Base": {
+      "time": 1757070416065.8357,
+      "uuid": "9a0baf76-890d-4d00-a30c-f71bcc32d3a2"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Scripts\\Config": {
+      "time": 1757070416082.3413,
+      "uuid": "5ea2f281-f325-4242-8603-62b7c8ff23d9"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Scripts\\Controller": {
+      "time": 1757070416102.3413,
+      "uuid": "83d76cee-6651-4f6c-9e2f-ff8f5f468402"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Scripts\\Object": {
+      "time": 1757070416115.3416,
+      "uuid": "abff56e4-37d6-442c-8ccc-6815e50f0a0c"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Scripts\\PlayableAads": {
+      "time": 1757070416166.3435,
+      "uuid": "8ff31abe-75f5-4450-b665-45b37a20a3bf"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Scripts\\Pool": {
+      "time": 1757070416190.85,
+      "uuid": "b225ba1c-03f6-4eed-b877-b1dcb647bffa"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Textures\\All": {
+      "time": 1757070416374.1123,
+      "uuid": "94c0d7ec-a6e5-4096-b0cf-313593c111c2"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Textures\\BG": {
+      "time": 1757070416394.3354,
+      "uuid": "401dc921-debb-42b6-9f43-83ba77bfb010"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Textures\\Card": {
+      "time": 1757070416405.3384,
+      "uuid": "c3d872a6-39cd-43f8-affa-5553f6f0df63"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Textures\\Tutorial": {
+      "time": 1757070416423.3357,
+      "uuid": "c52c2875-3155-4aa2-a0a1-63875705b383"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\BGM & SFX\\BGM": {
+      "time": 1757070415874.815,
+      "uuid": "6e208fa7-ac7b-470b-8dac-f48d3b4e6876"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\BGM & SFX\\MP3": {
+      "time": 1757070415899.3223,
+      "uuid": "7facd068-d9ba-499f-bdec-44ac512c007c"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Scripts\\PlayableAads\\event": {
+      "time": 1757070416149.3413,
+      "uuid": "2cc63aa6-fd2a-4e5f-9e2b-698a599bb9db"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Scripts\\PlayableAads\\super_html": {
+      "time": 1757070416159.342,
+      "uuid": "f1cd3be3-8e7f-48fc-aa40-ced1bdfbb0f5"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Scripts\\PlayableAads\\util": {
+      "time": 1757070416176.8506,
+      "uuid": "168f7222-5a93-4aca-9a6a-f9c86e93e00f"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Scripts\\PlayableAads\\super_html\\super_html": {
+      "time": 1757070416162.344,
+      "uuid": "ebd90907-f957-4a3b-a81f-07645f414d13"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Scripts\\Base\\Singleton.ts": {
+      "time": 1756900340237.3765,
+      "uuid": "2e155be6-8eaa-4b53-8796-221f43cf86a2"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Scripts\\Config\\Constant.ts": {
+      "time": 1756989632362.6184,
+      "uuid": "c27ff978-937d-472f-b5ca-3492a2df485c"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Scripts\\Config\\FlowerData.ts": {
+      "time": 1756900340238.4941,
+      "uuid": "3106b715-b6fc-4bfb-a96c-6f6e558b9552"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Scripts\\Config\\GameConfig.ts": {
+      "time": 1756989844139.3403,
+      "uuid": "e1b5078e-c678-43bf-a65a-dd924b7215e9"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Scripts\\Config\\Utils.ts": {
+      "time": 1756900340239.4932,
+      "uuid": "840d7ae2-62bb-4eff-877a-61ffb069d702"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Scripts\\Controller\\AudioManager.ts": {
+      "time": 1756989632363.6233,
+      "uuid": "34a77502-2608-49b4-ae6e-d662162319f6"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Scripts\\Controller\\ButtonController.ts": {
+      "time": 1756910673059.1052,
+      "uuid": "f32c81b2-9180-4004-9b8a-b1f8eb958e5e"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Scripts\\Controller\\GameController.ts": {
+      "time": 1756995393053.06,
+      "uuid": "79de9101-ab1a-49e8-89cd-50a382c74f2f"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Scripts\\Controller\\RewardPopup.ts": {
+      "time": 1756913720134.2007,
+      "uuid": "c7746099-3f49-4de6-9460-314fee08a88c"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Scripts\\Controller\\RoyalFlush.ts": {
+      "time": 1756914248150.6887,
+      "uuid": "ca7409f0-4896-4d1e-bb94-d0dd0103a8be"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Scripts\\Object\\Card.ts": {
+      "time": 1756995430452.2976,
+      "uuid": "c4147c9e-113e-4865-927f-242024123da9"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Scripts\\Object\\Chip.ts": {
+      "time": 1756906285723.605,
+      "uuid": "35c9aaa6-8953-4482-be58-122fb072f545"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Scripts\\Object\\Tutorial.ts": {
+      "time": 1756907735818.5376,
+      "uuid": "f9357da4-9663-4b4c-9f3d-c5e9b7757cc5"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Scripts\\PlayableAads\\CanvasResponsive.ts": {
+      "time": 1756900340243.4968,
+      "uuid": "69691522-64c3-40f9-ad40-277e1eee1073"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Scripts\\PlayableAads\\MainData.ts": {
+      "time": 1756900340244.4973,
+      "uuid": "21f5b809-5dc0-40d3-be01-5eccdf827599"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Scripts\\PlayableAads\\PlayableAdsController.ts": {
+      "time": 1756913708645.261,
+      "uuid": "a52366bd-a9e5-4d21-ac12-75ddc4a7a8fe"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Scripts\\PlayableAads\\Responsive.ts": {
+      "time": 1756900340245.495,
+      "uuid": "00295aae-f793-4480-af50-5c20017b5a44"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Scripts\\PlayableAads\\SoundManager.ts": {
+      "time": 1756900340247.006,
+      "uuid": "57db39f7-250d-4aa4-ab03-91d817a59869"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Scripts\\Pool\\CreateItemBase.ts": {
+      "time": 1756900340254.528,
+      "uuid": "df2c2557-51c3-4af9-bf9e-9ab5325e7f66"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Scripts\\Pool\\CreateItemGold.ts": {
+      "time": 1756900340255.527,
+      "uuid": "4e8e7279-a9a9-4966-a8a4-8ff18b0aded9"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Scripts\\Pool\\Pool.ts": {
+      "time": 1756900340255.527,
+      "uuid": "21194c70-42a3-4863-9cc4-be19f675696e"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Scripts\\PlayableAads\\event\\BaseEvent.ts": {
+      "time": 1756900340249.02,
+      "uuid": "184c06fa-5ab3-4e85-b9bc-ed56e13c3c3a"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Scripts\\PlayableAads\\event\\GlobalEvent.ts": {
+      "time": 1756905207628.8691,
+      "uuid": "3e93be59-3b3f-4ac1-9ed5-4e245a3c0e69"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Scripts\\PlayableAads\\super_html\\repair_engine.ts": {
+      "time": 1756900340250.0146,
+      "uuid": "a7e1df3e-5205-4f40-9479-661146966473"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Scripts\\PlayableAads\\util\\FitController.ts": {
+      "time": 1756900340252.5283,
+      "uuid": "5ce278ac-a912-4db5-b417-da9ca5de1d9b"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Scripts\\PlayableAads\\util\\TweenUtils.ts": {
+      "time": 1756900340253.5293,
+      "uuid": "bec5a526-46c0-478f-a1f0-6a060549d305"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Scripts\\PlayableAads\\util\\Utils.ts": {
+      "time": 1756900340253.5293,
+      "uuid": "0e49086b-c45d-4f44-817d-a049f9f802c2"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Scripts\\PlayableAads\\super_html\\super_html\\super_html_playable.ts": {
+      "time": 1756900340251.52,
+      "uuid": "25206aab-a7ab-4714-8e90-edc560d92ea6"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Animation.meta": {
+      "time": 1756900340183.2334
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio.meta": {
+      "time": 1756900340210.324
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\effect.meta": {
+      "time": 1756900340279.1133
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Font.meta": {
+      "time": 1756901570767.5103
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Particle.meta": {
+      "time": 1756900340224.8528
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Prefab.meta": {
+      "time": 1756900340234.375
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Scene.meta": {
+      "time": 1756900340235.3745
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Scripts.meta": {
+      "time": 1756900340236.3767
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Texture.meta": {
+      "time": 1756989632365.628
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Textures.meta": {
+      "time": 1756900340255.527
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Animation\\Explosion.meta": {
+      "time": 1756900340198.308
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\BGM & SFX.meta": {
+      "time": 1756989632116.7188
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\effect\\changeColor.meta": {
+      "time": 1756900340280.1133
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\effect\\Gold.meta": {
+      "time": 1756987000804.8645
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\effect\\levelUp.meta": {
+      "time": 1756900340283.1753
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Scripts\\Base.meta": {
+      "time": 1756900340237.3765
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Scripts\\Config.meta": {
+      "time": 1756900340237.3765
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Scripts\\Controller.meta": {
+      "time": 1756900340240.4954
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Scripts\\Object.meta": {
+      "time": 1756900340241.5015
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Scripts\\PlayableAads.meta": {
+      "time": 1756900340242.4934
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Scripts\\Pool.meta": {
+      "time": 1756900340254.528
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Textures\\All.meta": {
+      "time": 1756995939111.7107
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Textures\\BG.meta": {
+      "time": 1756900340255.527
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Textures\\Card.meta": {
+      "time": 1756900340260.0388
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Textures\\Tutorial.meta": {
+      "time": 1756900340265.5571
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\BGM & SFX\\BGM.meta": {
+      "time": 1756989632116.7188
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\BGM & SFX\\MP3.meta": {
+      "time": 1756989632168.5068
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Scripts\\PlayableAads\\event.meta": {
+      "time": 1756900340248.017
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Scripts\\PlayableAads\\super_html.meta": {
+      "time": 1756900340250.0146
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Scripts\\PlayableAads\\util.meta": {
+      "time": 1756900340252.5283
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Scripts\\PlayableAads\\super_html\\super_html.meta": {
+      "time": 1756900340250.0146
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Scripts\\Base\\Singleton.ts.meta": {
+      "time": 1756900340237.3765
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Scripts\\Config\\Constant.ts.meta": {
+      "time": 1756989632363.6233
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Scripts\\Config\\FlowerData.ts.meta": {
+      "time": 1756900340238.4941
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Scripts\\Config\\GameConfig.ts.meta": {
+      "time": 1756900340239.4932
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Scripts\\Config\\Utils.ts.meta": {
+      "time": 1756900340239.4932
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Scripts\\Controller\\AudioManager.ts.meta": {
+      "time": 1756989632363.6233
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Scripts\\Controller\\ButtonController.ts.meta": {
+      "time": 1756908070748.8289
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Scripts\\Controller\\GameController.ts.meta": {
+      "time": 1756900340241.5015
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Scripts\\Controller\\RewardPopup.ts.meta": {
+      "time": 1756913333231.9038
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Scripts\\Controller\\RoyalFlush.ts.meta": {
+      "time": 1756911017555.02
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Scripts\\Object\\Card.ts.meta": {
+      "time": 1756900340242.4934
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Scripts\\Object\\Chip.ts.meta": {
+      "time": 1756904962486.9895
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Scripts\\Object\\Tutorial.ts.meta": {
+      "time": 1756907683793.6938
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Scripts\\PlayableAads\\CanvasResponsive.ts.meta": {
+      "time": 1756900340243.4968
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Scripts\\PlayableAads\\MainData.ts.meta": {
+      "time": 1756900340244.4973
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Scripts\\PlayableAads\\PlayableAdsController.ts.meta": {
+      "time": 1756900340245.495
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Scripts\\PlayableAads\\Responsive.ts.meta": {
+      "time": 1756900340247.006
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Scripts\\PlayableAads\\SoundManager.ts.meta": {
+      "time": 1756900340248.017
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Scripts\\Pool\\CreateItemBase.ts.meta": {
+      "time": 1756900340254.528
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Scripts\\Pool\\CreateItemGold.ts.meta": {
+      "time": 1756900340255.527
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Scripts\\Pool\\Pool.ts.meta": {
+      "time": 1756900340255.527
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Scripts\\PlayableAads\\event\\BaseEvent.ts.meta": {
+      "time": 1756900340249.02
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Scripts\\PlayableAads\\event\\GlobalEvent.ts.meta": {
+      "time": 1756900340250.0146
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Scripts\\PlayableAads\\super_html\\repair_engine.ts.meta": {
+      "time": 1756900340250.0146
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Scripts\\PlayableAads\\util\\FitController.ts.meta": {
+      "time": 1756900340252.5283
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Scripts\\PlayableAads\\util\\TweenUtils.ts.meta": {
+      "time": 1756900340253.5293
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Scripts\\PlayableAads\\util\\Utils.ts.meta": {
+      "time": 1756900340253.5293
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Scripts\\PlayableAads\\super_html\\super_html\\super_html_playable.ts.meta": {
+      "time": 1756900340251.52
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Animation\\Scale.anim": {
+      "time": 1756900340208.3245,
+      "uuid": "c0196824-290d-45c6-8b2d-6169ade36154"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Animation\\tutorial_hand.anim": {
+      "time": 1756907662505.9397,
+      "uuid": "a2494929-1151-481d-9ff2-015a501fcf6b"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\Character.mp3": {
+      "time": 1756900340211.8313,
+      "uuid": "c7468add-0659-4e9d-bc8d-0c1c2f24e1bd"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\Coins_Collected - Copy.mp3": {
+      "time": 1756900340211.8313,
+      "uuid": "48e7723f-a1d9-4481-aec8-3f6bdf903a4b"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\Coins_Collected.mp3": {
+      "time": 1756900340212.8362,
+      "uuid": "5c70cb97-ff02-4a11-a09d-d442981d20ce"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\Cow.mp3": {
+      "time": 1756900340212.8362,
+      "uuid": "6d9245b4-58be-4597-9781-daac3e1b3e1e"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\CowWater.mp3": {
+      "time": 1756900340213.8374,
+      "uuid": "7d022f06-4704-4cf8-910b-1240e48cf56e"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\Cow_2.mp3": {
+      "time": 1756900340214.837,
+      "uuid": "173c9cda-0706-4504-971a-ded07d6911f8"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\Drop.mp3": {
+      "time": 1756900340214.837,
+      "uuid": "f0800868-2de0-4db7-aa27-4a129455ee68"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\Fail 2.png": {
+      "time": 1756900340215.8364,
+      "uuid": "70c436b8-0e65-4a3b-85ed-588174728a22"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\fail stamp.png": {
+      "time": 1756900340220.3445,
+      "uuid": "6d9dba6e-f419-4ab2-a4c4-74f15ac16c05"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\fail.mp3": {
+      "time": 1756900340221.8486,
+      "uuid": "e0839b1b-28bc-4176-a2c7-8e39dfad4e92"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\Healing.mp3": {
+      "time": 1756900340215.8364,
+      "uuid": "14445773-4209-46c3-bfe2-a5fbc9c3b2cb"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\npc_Nam.mp3": {
+      "time": 1756900340221.8486,
+      "uuid": "27bdb92c-e53e-46ea-bbe4-04e9d107ea46"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\npc_Nu.mp3": {
+      "time": 1756900340221.8486,
+      "uuid": "5f7d57e6-15c7-4b44-9328-d34f62184635"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\pig_1.mp3": {
+      "time": 1756900340222.8535,
+      "uuid": "bb1e3b04-1689-4d72-973f-a80df9956f09"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\pig_2.mp3": {
+      "time": 1756900340222.8535,
+      "uuid": "27bec24c-145f-4623-b263-b6f1e1f5f2c1"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\Pop.mp3": {
+      "time": 1756900340215.8364,
+      "uuid": "6f4b8f7d-f584-44fa-8718-8e8e2712b7ce"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\Pop_1.mp3": {
+      "time": 1756900340217.34,
+      "uuid": "c7a548d5-1636-4a8d-b31d-3abc0d4b2e93"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\sfx_lv_up.mp3": {
+      "time": 1756900340223.8528,
+      "uuid": "b7aae718-5471-42c0-93f1-ff3577f55589"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\SoundBg_1.mp3": {
+      "time": 1756900340218.3452,
+      "uuid": "72c45553-c133-49e1-9ecb-0f53b7694de4"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\water.mp3": {
+      "time": 1756900340223.8528,
+      "uuid": "621722b3-56cc-49a2-a5a2-6e63e34d4da6"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\Win.mp3": {
+      "time": 1756900340218.3452,
+      "uuid": "1bea7d20-85c8-4fb3-b5f6-8a51ed9cf8b6"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\Wrong.mp3": {
+      "time": 1756900340219.3445,
+      "uuid": "20a7d594-2ef1-40b1-98f7-dfdc91f8220b"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\effect\\particle_texture.plist": {
+      "time": 1756900340285.1758,
+      "uuid": "634f7ba3-5070-4170-81bb-f75a50045ab8"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\effect\\particle_texture.png": {
+      "time": 1756900340286.1775,
+      "uuid": "91f9d2f7-7cd5-4971-b555-01f890a0ef3f"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Font\\Asap_Condensed-ExtraBold.ttf": {
+      "time": 1750895352000,
+      "uuid": "a72b497d-6c61-424e-b7d3-f97b3060713c"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Font\\Insanibu.ttf": {
+      "time": 949683972000,
+      "uuid": "219f5f8e-39e4-44e4-afb7-da75801fbbfa"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Particle\\atom.png": {
+      "time": 1756900340225.8533,
+      "uuid": "d6d547c9-8960-4d62-bc91-c994f43f4f9f"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Particle\\c_000.png": {
+      "time": 1756900340225.8533,
+      "uuid": "1686d705-2db1-4870-830e-c3e8807ec558"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Particle\\c_001.png": {
+      "time": 1756900340227.3623,
+      "uuid": "f01b29bd-c233-4714-a2f4-1ac189a9352b"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Particle\\c_002.png": {
+      "time": 1756900340228.3687,
+      "uuid": "32859fc9-a078-4ed2-aa07-31d41cac209e"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Particle\\c_003.png": {
+      "time": 1756900340229.3677,
+      "uuid": "27f4e366-9531-4e6f-999e-2fbab60d2de6"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Particle\\c_004.png": {
+      "time": 1756900340229.3677,
+      "uuid": "775f2e3b-a7e6-47b2-882c-765d8cc5d152"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Particle\\c_005.png": {
+      "time": 1756900340230.3677,
+      "uuid": "0ccf9047-4bea-4729-9e0d-18f0866d3a74"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Particle\\c_006.png": {
+      "time": 1756900340230.3677,
+      "uuid": "1a6aa03e-1845-4089-aa17-355be65ba827"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Particle\\c_007.png": {
+      "time": 1756900340231.3687,
+      "uuid": "ebe98263-8d4f-47db-9bcb-997f665f1982"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Particle\\Particle-001.prefab": {
+      "time": 1756900340224.8528,
+      "uuid": "76411f05-7f1f-4742-8cda-bd313c2d3627"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Particle\\particle-add_1.mtl": {
+      "time": 1756900340231.3687,
+      "uuid": "e6575642-f319-4bfd-a44d-30b841c3d0ba"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Particle\\particle-add_2.mtl": {
+      "time": 1756900340232.376,
+      "uuid": "a36fcb39-4acb-40d2-93ac-f7721cf6fc94"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Particle\\particle-add_smoke.mtl": {
+      "time": 1756900340232.376,
+      "uuid": "424f68ca-8264-49d3-ad32-90749c7be93b"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Particle\\Particle.prefab": {
+      "time": 1756900340225.8533,
+      "uuid": "ae484f45-c435-4668-a376-8f7dc1a102c4"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Particle\\smoke.png": {
+      "time": 1756900340232.376,
+      "uuid": "5db4e808-e662-4e99-ace2-d86a4e68d89a"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Particle\\smokepuff.png": {
+      "time": 1756900340233.3735,
+      "uuid": "f77d7dfb-0b82-49c5-b7b1-56cc0354bb86"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Prefab\\BoxFragment.prefab": {
+      "time": 1756989632361.1133,
+      "uuid": "d4e70c7e-1398-4092-bf80-415c4527d85f"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Prefab\\Tutorial_0.prefab": {
+      "time": 1756900340234.375,
+      "uuid": "f4a62e92-fdcc-4f09-8048-38c3c516b855"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Scene\\Game.scene": {
+      "time": 1757070539975.971,
+      "uuid": "d3a45da8-9629-4b92-9828-8bf61ae5f9fd"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Scene\\scene.scene": {
+      "time": 1756900340236.3767,
+      "uuid": "8b9b7e2a-a0c4-4339-89ea-33524ae1f214"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Texture\\coin.png": {
+      "time": 1756995512793.1895,
+      "uuid": "5dc095a4-4a64-4459-aca7-3db1648484c2"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Texture\\coin2.png": {
+      "time": 1756995513241.3958,
+      "uuid": "4c566e3f-2019-4bcc-9355-bbb33d163e89"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Texture\\particle-add-001.mtl": {
+      "time": 1756989632369.9634,
+      "uuid": "2da33a53-f9c4-4e69-abca-9f5228ce060b"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Texture\\particle-add.mtl": {
+      "time": 1756989632370.9634,
+      "uuid": "4887f5a4-a111-4afa-bc18-08edd7dbb2e7"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Animation\\Explosion\\Energy 016 Hit Explosion_00003.png": {
+      "time": 1756900340199.3071,
+      "uuid": "2c89da30-27ff-47e5-a472-998ae90e8241"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Animation\\Explosion\\Energy 016 Hit Explosion_00005.png": {
+      "time": 1756900340199.3071,
+      "uuid": "fb9f95d1-4047-459f-a5b1-a32e4f4ec32f"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Animation\\Explosion\\Energy 016 Hit Explosion_00007.png": {
+      "time": 1756900340200.307,
+      "uuid": "74fb244e-cd17-4b72-b20c-524a44a75968"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Animation\\Explosion\\Energy 016 Hit Explosion_00009.png": {
+      "time": 1756900340200.307,
+      "uuid": "1cb53049-d4ef-46ed-888e-821a3305f680"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Animation\\Explosion\\Energy 016 Hit Explosion_00011.png": {
+      "time": 1756900340200.307,
+      "uuid": "9f038771-dba5-440d-a547-2dda7b12ab40"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Animation\\Explosion\\Energy 016 Hit Explosion_00013.png": {
+      "time": 1756900340201.8108,
+      "uuid": "38bc0103-e967-4df2-90e2-a5a1e28c527b"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Animation\\Explosion\\Energy 016 Hit Explosion_00015.png": {
+      "time": 1756900340201.8108,
+      "uuid": "5444fb5f-43ef-44f7-877b-e09ac2d98943"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Animation\\Explosion\\Energy 016 Hit Explosion_00017.png": {
+      "time": 1756900340202.816,
+      "uuid": "29dd7d0d-48d0-475d-9d84-4ad244a99d4c"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Animation\\Explosion\\Energy 016 Hit Explosion_00019.png": {
+      "time": 1756900340202.816,
+      "uuid": "4948ce8b-60fd-48d6-97e0-e84d8ba28419"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Animation\\Explosion\\Energy 016 Hit Explosion_00021.png": {
+      "time": 1756900340203.8157,
+      "uuid": "2caee755-c47f-47a7-a42e-1679a9b703c2"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Animation\\Explosion\\Energy 016 Hit Explosion_00023.png": {
+      "time": 1756900340203.8157,
+      "uuid": "6b76e74b-bfd4-4c71-93e8-6fb1f5b23bbc"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Animation\\Explosion\\Energy 016 Hit Explosion_00025.png": {
+      "time": 1756900340204.816,
+      "uuid": "2f11ca2f-2d02-4134-933f-addd639bf4bc"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Animation\\Explosion\\Energy 016 Hit Explosion_00027.png": {
+      "time": 1756900340204.816,
+      "uuid": "8dbbd320-bd0b-4cf2-acae-62d35ba19e9e"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Animation\\Explosion\\Energy 016 Hit Explosion_00029.png": {
+      "time": 1756900340205.8154,
+      "uuid": "78b24bda-0c45-4a3f-97c7-678f48b00357"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Animation\\Explosion\\Energy 016 Hit Explosion_00031.png": {
+      "time": 1756900340205.8154,
+      "uuid": "72a8f308-b35d-4690-8ba3-2e30a3fb4f17"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Animation\\Explosion\\Energy 016 Hit Explosion_00033.png": {
+      "time": 1756900340207.3193,
+      "uuid": "175860e2-eaa3-4612-9638-9a4d9340b86e"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Animation\\Explosion\\Explosion.anim": {
+      "time": 1756900340207.3193,
+      "uuid": "daf5958d-dea0-404b-a154-84d9409b050b"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\BGM & SFX\\Build_Meta_Attack_Broke_Shield.wav": {
+      "time": 1756989632123.9902,
+      "uuid": "c065e65c-57d9-4967-b26d-83c089f40ae7"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\BGM & SFX\\Build_Meta_Attack_Lightning.wav": {
+      "time": 1756989632127.4956,
+      "uuid": "4d59c537-1f84-4d08-8802-7f22dc76e3aa"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\BGM & SFX\\Build_Meta_Attack_Popup_Result.wav": {
+      "time": 1756989632129.4983,
+      "uuid": "b2ab453e-4cb7-499b-bbb9-5c5ff9192db2"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\BGM & SFX\\Build_Meta_Attack_Ready.wav": {
+      "time": 1756989632134.5017,
+      "uuid": "5abda919-e16f-43d4-84c0-ec5952a3d518"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\BGM & SFX\\Build_Meta_Attack_Success.wav": {
+      "time": 1756989632137.0056,
+      "uuid": "8ac9eec5-2733-44a3-958b-abd9c26b970f"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\BGM & SFX\\Build_Meta_Complete.wav": {
+      "time": 1756989632139.0112,
+      "uuid": "ba334f87-ae6b-4492-ade7-da539b003a8c"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\BGM & SFX\\Build_Meta_Point_Fly.wav": {
+      "time": 1756989632139.0112,
+      "uuid": "dd270abc-6b8e-4b09-aac6-e4357e485fbe"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\BGM & SFX\\Build_Meta_Point_Get.wav": {
+      "time": 1756989632141.0103,
+      "uuid": "00331487-f478-4be1-b550-6be782d2672d"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\BGM & SFX\\Build_Meta_Tool.wav": {
+      "time": 1756989632142.0122,
+      "uuid": "d36eb8f7-2e4f-4d98-9cd3-e168b09d7fac"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\BGM & SFX\\Buy_In_Flying.wav": {
+      "time": 1756989632144.0115,
+      "uuid": "6e236b5b-e480-471f-a51b-36a7c524d22c"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\BGM & SFX\\Chips_Simple_Earn.wav": {
+      "time": 1756989632144.0115,
+      "uuid": "01e90c0d-b391-42f3-9366-6e3f6d6312e7"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\BGM & SFX\\Earn_Card.wav": {
+      "time": 1756989632145.011,
+      "uuid": "1927a100-6d94-41a5-b442-dc63b25a8eb0"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\BGM & SFX\\Earn_Reward_Box.wav": {
+      "time": 1756989632147.0105,
+      "uuid": "8ede2ed7-24c6-4c47-aad5-db683c1eeb3c"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\BGM & SFX\\Earn_Reward_Chips.wav": {
+      "time": 1756989632148.5017,
+      "uuid": "7bd16ac6-7e4c-4a4e-a49e-9d5f64d1ca4b"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\BGM & SFX\\Earn_Reward_Level.wav": {
+      "time": 1756989632150.4905,
+      "uuid": "be66dabb-5c0b-45e5-a85a-6226da69693a"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\BGM & SFX\\Earn_Reward_Shield.wav": {
+      "time": 1756989632152.4883,
+      "uuid": "8aead5dd-04ab-466b-9c00-33e34e78b647"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\BGM & SFX\\Earn_Reward_Sticker.wav": {
+      "time": 1756989632154.4888,
+      "uuid": "48fda635-c412-434a-a332-e9d0e23e5aaf"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\BGM & SFX\\Earn_Reward_Sticker_Pack.wav": {
+      "time": 1756989632156.9924,
+      "uuid": "917175e3-db19-4b7e-acf2-8f196fd7cf69"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\BGM & SFX\\Heads_Up_Chest_Open.wav": {
+      "time": 1756989632159.9983,
+      "uuid": "c3c88a49-68e2-4c47-b479-99d2dd94ed5d"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\BGM & SFX\\Heads_Up_Fold.wav": {
+      "time": 1756989632160.9976,
+      "uuid": "e2ef3148-887c-42e4-93be-096bf3489d4e"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\BGM & SFX\\Heads_Up_Money_Rain.wav": {
+      "time": 1756989632165.9998,
+      "uuid": "dfab8b73-e831-40c4-9bdb-cc1be2cbe6d0"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\BGM & SFX\\Loading_Cloud.wav": {
+      "time": 1756989632167.505,
+      "uuid": "9d51179c-69d0-4de5-8d53-cd9c4240e2be"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\BGM & SFX\\Money_Flying.wav": {
+      "time": 1756989632173.5073,
+      "uuid": "411a4a24-76a9-4ebc-b13d-8bdb5e2efb36"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\BGM & SFX\\Shield_Appear.wav": {
+      "time": 1756989632175.5076,
+      "uuid": "7c1dcba0-c91f-4e82-a3a1-3c82d73626e5"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\BGM & SFX\\Shield_Arrive.wav": {
+      "time": 1756989632175.5076,
+      "uuid": "62a3b1f5-10db-4548-bc3e-1e668fd06fd3"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\BGM & SFX\\Shield_Fly.wav": {
+      "time": 1756989632177.012,
+      "uuid": "c8f6c4e6-b740-4041-bf4d-839f9ada52e8"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\BGM & SFX\\Table_Ambience.wav": {
+      "time": 1756989632243.8247,
+      "uuid": "df15462d-80d6-418f-88af-b6e164198e26"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\BGM & SFX\\Table_Chip Win Collect.wav": {
+      "time": 1756989632244.8245,
+      "uuid": "f91afb49-d999-42cf-9f74-8eb008a5b3f1"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\BGM & SFX\\Table_Chip_Bet_01.wav": {
+      "time": 1756989632245.8242,
+      "uuid": "ae7d317b-43e6-4029-8b71-a7e1fb47169d"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\BGM & SFX\\Table_Chip_Bet_02.wav": {
+      "time": 1756989632246.8237,
+      "uuid": "a139ca47-53df-4813-bd5d-5dddce769227"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\BGM & SFX\\Table_Chip_Bet_03.wav": {
+      "time": 1756989632247.8623,
+      "uuid": "361f95fd-e49b-4bdd-9bb3-1483c13e995d"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\BGM & SFX\\Table_Chip_Bet_05.wav": {
+      "time": 1756989632248.8665,
+      "uuid": "adfa0a58-375e-4be3-a5e7-6341787f0672"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\BGM & SFX\\Table_Chip_Clear.wav": {
+      "time": 1756989632249.8613,
+      "uuid": "84c8745a-16bb-493e-819e-aaade4fdf856"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\BGM & SFX\\Table_Chip_Dealer Win Collect.wav": {
+      "time": 1756989632251.8594,
+      "uuid": "3fb07272-f8b4-47df-8acf-71d343d80f0a"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\BGM & SFX\\Table_Chip_Repeat.wav": {
+      "time": 1756989632252.8591,
+      "uuid": "a01e3e7e-ab6d-478e-bb56-ea4e84fad1b5"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\BGM & SFX\\Table_Fold.wav": {
+      "time": 1756989632253.8594,
+      "uuid": "bdc0ffb0-3331-44e2-8d7e-efa568d76c2b"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\BGM & SFX\\Table_My_Turn.wav": {
+      "time": 1756989632254.8591,
+      "uuid": "928ea34c-f28e-4c60-9bb4-4b5968fb1476"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\BGM & SFX\\Tournament_Curtain.wav": {
+      "time": 1756989632255.8596,
+      "uuid": "d2f6746c-18c7-44d7-bcfd-ac7c1237f698"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\BGM & SFX\\Tournament_Popup_Congratulations.wav": {
+      "time": 1756989632257.891,
+      "uuid": "897a959c-1a74-4fec-ab1a-695514a15e64"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\BGM & SFX\\Tournament_Popup_Result.wav": {
+      "time": 1756989632259.8928,
+      "uuid": "dc4f1d2d-7754-4258-904a-182383224779"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\BGM & SFX\\UI_Button_Close.wav": {
+      "time": 1756989632261.8926,
+      "uuid": "e17279ad-b458-4d0b-bfa5-f9c3846c07ee"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\BGM & SFX\\UI_Button_Normal.wav": {
+      "time": 1756989632263.891,
+      "uuid": "78bed67e-effd-4b73-a50a-1046e8f137e0"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\BGM & SFX\\UI_Button_Tab.wav": {
+      "time": 1756989632267.4043,
+      "uuid": "7a9408df-5050-45f9-bcfa-6fa59935e4f1"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\BGM & SFX\\UI_Coin_Riser_End.wav": {
+      "time": 1756989632270.4387,
+      "uuid": "1402512f-7bd4-48cd-8614-eea45ee84da4"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\BGM & SFX\\UI_Coin_Riser_Loop.wav": {
+      "time": 1756989632273.4602,
+      "uuid": "c8814010-c0f2-427f-aa48-83348685d3e5"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\BGM & SFX\\UI_Title.wav": {
+      "time": 1756989632282.471,
+      "uuid": "9d480137-e272-486b-88f1-a362ddcbbda4"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\BGM & SFX\\UI_Wheel_Pin.wav": {
+      "time": 1756989632284.484,
+      "uuid": "ac25ecb1-75c3-4bb8-ac91-058b8062f200"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\BGM & SFX\\Vox_Big_Win.wav": {
+      "time": 1756989632287.9934,
+      "uuid": "534c7f3a-a366-4596-9fea-5ca7797a3d71"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\BGM & SFX\\Vox_Dealer_Win.wav": {
+      "time": 1756989632289.9941,
+      "uuid": "ffbc0bff-9844-4583-a879-d1fc5d328876"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\BGM & SFX\\Vox_Epic_Win.wav": {
+      "time": 1756989632295.505,
+      "uuid": "99d9ca6f-843e-4603-bd10-5f824f1f572b"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\BGM & SFX\\Vox_Five_Of_A_Kind.wav": {
+      "time": 1756989632297.0083,
+      "uuid": "b5bcfbd6-c5e2-4b49-a6fe-ec1b854a61e6"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\BGM & SFX\\Vox_Flush.wav": {
+      "time": 1756989632299.0176,
+      "uuid": "2814b995-4721-4a56-9a82-8b016bd228d5"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\BGM & SFX\\Vox_Four_Of_A_Kind.wav": {
+      "time": 1756989632300.015,
+      "uuid": "04d293cf-2d49-45e9-b8c5-0406b0134849"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\BGM & SFX\\Vox_Full_House.wav": {
+      "time": 1756989632301.0127,
+      "uuid": "5fda874d-963c-4b11-b9d5-a19957c06027"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\BGM & SFX\\Vox_Grand_Jackpot.wav": {
+      "time": 1756989632308.034,
+      "uuid": "ec611cf0-559f-4bd4-8583-8673c8d043f5"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\BGM & SFX\\Vox_High_Card.wav": {
+      "time": 1756989632309.034,
+      "uuid": "21effaa5-4c37-4fcb-af8d-4c8a95a7120d"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\BGM & SFX\\Vox_Major_Jackpot.wav": {
+      "time": 1756989632315.6052,
+      "uuid": "ed320b99-3412-4c4d-b74a-13d1314abe75"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\BGM & SFX\\Vox_Mega_Jackpot.wav": {
+      "time": 1756989632321.1174,
+      "uuid": "5c43638b-1b1d-4579-bbec-a321157c4b46"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\BGM & SFX\\Vox_Mega_Win.wav": {
+      "time": 1756989632327.1238,
+      "uuid": "66a0c98a-c003-4340-891d-290e15324d32"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\BGM & SFX\\Vox_Mini_Jackpot.wav": {
+      "time": 1756989632332.5625,
+      "uuid": "a11d61a2-6355-45d5-b1ac-50fe9a9a185f"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\BGM & SFX\\Vox_Minor_Jackpot.wav": {
+      "time": 1756989632338.0688,
+      "uuid": "5c28b031-4172-4025-8348-b94349ac6fdb"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\BGM & SFX\\Vox_One_Pair.wav": {
+      "time": 1756989632339.0686,
+      "uuid": "457456ac-487e-45e7-88f5-5260a9349533"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\BGM & SFX\\Vox_Royal_Flush.wav": {
+      "time": 1756989632340.0713,
+      "uuid": "518ae29f-b8f9-496e-894e-d112ff02e551"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\BGM & SFX\\Vox_Straight.wav": {
+      "time": 1756989632341.0693,
+      "uuid": "5397635a-9d5e-4602-8ce0-69046c167bc0"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\BGM & SFX\\Vox_Straight_Flush.wav": {
+      "time": 1756989632342.5735,
+      "uuid": "1084bc5d-1db7-4c4c-a475-4678f2c849c0"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\BGM & SFX\\Vox_Super_Big_Win.wav": {
+      "time": 1756989632348.0898,
+      "uuid": "dcc5dc09-dec1-4770-8b66-161af6bf8306"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\BGM & SFX\\Vox_Super_Mega_Win.wav": {
+      "time": 1756989632355.6042,
+      "uuid": "d2d2bac8-11b3-4ecf-9239-0367a322acb2"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\BGM & SFX\\Vox_Three_Of_A_Kind.wav": {
+      "time": 1756989632358.1138,
+      "uuid": "4f768239-d632-4895-abd5-8bc3d959596f"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\BGM & SFX\\Vox_Two_Pair.wav": {
+      "time": 1756989632359.1138,
+      "uuid": "5841f9e3-444a-4cf4-91a6-0f6c6f25ff78"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\BGM & SFX\\Vox_You_Win.wav": {
+      "time": 1756989632360.1128,
+      "uuid": "b32391d9-be51-4c3c-8642-70129526eaaa"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\effect\\changeColor\\changeGreen.prefab": {
+      "time": 1756900340281.169,
+      "uuid": "3cebbf80-940e-4124-bf4d-ced623aae74a"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\effect\\changeColor\\greenLight01.mtl": {
+      "time": 1756900340281.169,
+      "uuid": "f96cf18a-980a-4ff0-8907-25f50ae6e67b"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\effect\\changeColor\\greenStar.mtl": {
+      "time": 1756900340282.176,
+      "uuid": "93c4b7a6-5701-4b6c-9afd-9ebbe10af016"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\effect\\changeColor\\LevelUp.mtl": {
+      "time": 1756900340280.1133,
+      "uuid": "91329ffe-5536-4605-b618-b9c47cc3e315"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\effect\\changeColor\\lightQ.png": {
+      "time": 1756900340283.1753,
+      "uuid": "42664819-3e36-4931-aa2e-f1f538e472e0"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\effect\\changeColor\\upLight01.png": {
+      "time": 1756900340283.1753,
+      "uuid": "f2558223-6d62-4ada-a9aa-c8bec42782fa"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\effect\\Gold\\particle_texture.plist": {
+      "time": 1756987000811.8013,
+      "uuid": "a58c5efb-cbe8-4ad6-b72f-0e37efdc5174"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\effect\\Gold\\particle_texture.png": {
+      "time": 1756987000832.052,
+      "uuid": "9e4a1e6f-577b-42f9-99a1-906c9a0002c8"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\effect\\levelUp\\lightQ.anim": {
+      "time": 1756900340284.1748,
+      "uuid": "0a73f357-98e9-40cb-8123-57b54bea0c33"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\effect\\levelUp\\lightQ.mtl": {
+      "time": 1756900340284.1748,
+      "uuid": "2783f408-937b-49f7-bbf9-7097f1d5da3a"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\effect\\levelUp\\lightQ.prefab": {
+      "time": 1756900340285.1758,
+      "uuid": "13f51594-5141-4856-90f4-efb2c617f867"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Textures\\All\\All_in.png": {
+      "time": 1756900533903.3142,
+      "uuid": "5dd07598-9e6c-441b-a20e-37e2a7c4589c"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Textures\\All\\bar.png": {
+      "time": 1756900340271.5857,
+      "uuid": "c3673acb-427e-444f-b794-2c294bf99478"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Textures\\All\\bar_1.png": {
+      "time": 1756900636835.0918,
+      "uuid": "0178ff12-87eb-4421-8833-af4072037e18"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Textures\\All\\Bet_Nx.png": {
+      "time": 1756900549861.875,
+      "uuid": "47cf0585-92a8-4576-b465-4efd8d6d842e"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Textures\\All\\btn_collect.png": {
+      "time": 1756912783530.4658,
+      "uuid": "75def43c-e194-4404-86ab-a872fdd59098"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Textures\\All\\card_10_2.png": {
+      "time": 1756906623698.4502,
+      "uuid": "88324675-f32c-4d11-8635-865fd2fa257d"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Textures\\All\\card_10_3.png": {
+      "time": 1756901333198.3855,
+      "uuid": "f9ea09af-d225-4cba-bb38-4f04a8a68ba3"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Textures\\All\\card_3.png": {
+      "time": 1756900340273.597,
+      "uuid": "d547f0b3-be47-4773-b27e-154391653400"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Textures\\All\\card_A.png": {
+      "time": 1756900736102.8562,
+      "uuid": "bbc95988-6ac1-4368-a485-3bf9abc0fc09"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Textures\\All\\Card_Back.png": {
+      "time": 1756969612000,
+      "uuid": "22142ce7-f4ce-487a-9010-b71661cc8ae1"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Textures\\All\\Card_Back_D.png": {
+      "time": 1756969612000,
+      "uuid": "e5463e61-61ba-4a90-83ad-07bd7654a5e9"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Textures\\All\\Card_J.png": {
+      "time": 1756900863396.2803,
+      "uuid": "2589692b-9865-4671-a495-920332aa3952"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Textures\\All\\Card_K.png": {
+      "time": 1756900711688.22,
+      "uuid": "9fca78cf-0038-4b06-a406-9908fb8c2cc5"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Textures\\All\\Card_Q.png": {
+      "time": 1756900889300.7915,
+      "uuid": "f631d0a3-11a4-482d-ac16-3ff52affbe16"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Textures\\All\\car_5.png": {
+      "time": 1756900876303.1992,
+      "uuid": "02b6ce0b-c27e-4081-9175-e79adf24a036"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Textures\\All\\car_8.png": {
+      "time": 1756900869721.8586,
+      "uuid": "69bf546d-1569-4676-b9a3-77d95a31a25f"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Textures\\All\\Check.png": {
+      "time": 1756900564618.8845,
+      "uuid": "87a5fa63-1f87-4afa-9fa4-03ab3e1c6fb4"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Textures\\All\\chip.png": {
+      "time": 1756903091195.6355,
+      "uuid": "4554e59f-f715-4af3-b249-1dd482834e4e"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Textures\\All\\chip_1.png": {
+      "time": 1756969612000,
+      "uuid": "f32a54b3-3c45-45a6-a6ac-dc2d73de4827"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Textures\\All\\chip_bet.png": {
+      "time": 1756904862534.0095,
+      "uuid": "1f51eb19-6b06-4071-a5c6-3d0711ed9329"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Textures\\All\\Dealer_profile.png": {
+      "time": 1756969612000,
+      "uuid": "f55af625-2c96-47d6-82b0-3e15160a1534"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Textures\\All\\dollar_0.png": {
+      "time": 1756900340275.5964,
+      "uuid": "91dbc0f9-f1f7-4712-86f5-fedd16b9d9a8"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Textures\\All\\dollar_1.png": {
+      "time": 1756969612000,
+      "uuid": "e64ad71a-55fc-4f5c-aa5e-2dc60c7842b6"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Textures\\All\\HandPointer.png": {
+      "time": 1756901049413.945,
+      "uuid": "13cfd86f-9a49-497d-8667-338fd1fad4bc"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Textures\\All\\head.png": {
+      "time": 1756969612000,
+      "uuid": "38a9f9aa-2e91-4741-a29d-131920957385"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Textures\\All\\icon_3.png": {
+      "time": 1756912835343.318,
+      "uuid": "6d40ef8e-24a3-4e5c-ba48-0d7c01b8f27a"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Textures\\All\\logo.png": {
+      "time": 1756969612000,
+      "uuid": "c50211a7-a5ac-4f80-a146-5a7fd89156a2"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Textures\\All\\notiRed.png": {
+      "time": 1756900509943.8274,
+      "uuid": "25ec25dd-5c5b-41e0-85f3-85bdc14ac80b"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Textures\\All\\outLine.png": {
+      "time": 1756906780438.6243,
+      "uuid": "dc1c74b5-bd2c-4ee0-b622-2bacdae9a602"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Textures\\All\\play now_yellow.png": {
+      "time": 1756969612000,
+      "uuid": "9160a8ad-4604-48e8-a8aa-50467b6e2e9a"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Textures\\All\\Play.png": {
+      "time": 1756900492530.8882,
+      "uuid": "5386c7ab-e7c2-4e2e-84bf-8ed7440e2cc0"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Textures\\All\\plus.png": {
+      "time": 1756900340278.1143,
+      "uuid": "d371a247-3417-4330-b132-c94989480aa2"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Textures\\All\\textures.pac": {
+      "time": 1743001296945.088,
+      "uuid": "71139a73-0287-4c09-9a20-cfcb2c65e894"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Textures\\All\\title_royal_flush.png": {
+      "time": 1756969612000,
+      "uuid": "b842da7c-9b72-457a-94c2-f806fdd9ce04"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Textures\\All\\X.png": {
+      "time": 1756900340270.074,
+      "uuid": "b730fda5-8b20-468c-80c9-7853ff10cbd0"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Textures\\BG\\bg.jpg": {
+      "time": 1756994895912.558,
+      "uuid": "52095ff8-20c2-4f2e-9730-085d5a4e303b"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Textures\\BG\\bg_1.jpg": {
+      "time": 1756995853260.275,
+      "uuid": "35fcca69-261a-4c9a-bc05-b0d18c8d53a4"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Textures\\Card\\cards.plist": {
+      "time": 1756900340261.5486,
+      "uuid": "fa666380-fc26-44d0-979e-1ed0fd6d7f3e"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Textures\\Card\\cards.png": {
+      "time": 1756900340264.5576,
+      "uuid": "f421d279-f342-4b89-a89b-546d0b3295d5"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Textures\\Tutorial\\dot.png": {
+      "time": 1756900340267.0647,
+      "uuid": "5d12e8f0-c5e7-41ea-a06a-fdd70d09ba80"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Textures\\Tutorial\\hand1.png": {
+      "time": 1756900340267.0647,
+      "uuid": "acb16a77-d027-480f-b3e7-b72496c8759e"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Textures\\Tutorial\\hand2.png": {
+      "time": 1756900340268.074,
+      "uuid": "daa93ee1-e6b6-43b2-ac38-d0e8f80cc039"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Textures\\Tutorial\\t2.png": {
+      "time": 1756900340269.077,
+      "uuid": "c5507147-049d-448e-9e3c-997035329662"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\BGM & SFX\\BGM\\Table_BGM.mp3": {
+      "time": 1756994991050.743,
+      "uuid": "fe2ccd09-0ae3-4c47-bf85-7f19d191d78e"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\BGM & SFX\\BGM\\Table_BGM_1.mp3": {
+      "time": 1756989632121.9812,
+      "uuid": "2ceefcc0-d580-4169-be13-3333e6cff280"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\BGM & SFX\\MP3\\Bonus_Win.mp3": {
+      "time": 1756995049106.9153,
+      "uuid": "40961f0b-2a0c-44f9-9193-da849e1b7894"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\BGM & SFX\\MP3\\Card_Flip.mp3": {
+      "time": 1756989632169.5066,
+      "uuid": "7b9aeaa5-4e73-4427-8d87-de3164939a23"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\BGM & SFX\\MP3\\Earn_Reward_Money.mp3": {
+      "time": 1756995049187.9158,
+      "uuid": "60ba38e7-6131-4ff5-ada7-f2c66bc747bc"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\BGM & SFX\\MP3\\Table_Check.mp3": {
+      "time": 1756989632170.5078,
+      "uuid": "9889cd18-c7ff-4f38-b3aa-46da1b47ef15"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\BGM & SFX\\MP3\\Table_Chip_All_In.mp3": {
+      "time": 1756989632171.507,
+      "uuid": "afc6aec3-3e46-4516-9ac8-534555e98b37"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\BGM & SFX\\MP3\\Table_Chip_Bet_04.mp3": {
+      "time": 1756989632171.507,
+      "uuid": "50fca8bc-a5e3-4de5-8034-4de02b3f7046"
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Animation\\tutorial_hand.anim.meta": {
+      "time": 1756907613379.592
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Animation\\Scale.anim.meta": {
+      "time": 1756900340208.3245
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\Coins_Collected.mp3.meta": {
+      "time": 1756900340212.8362
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\CowWater.mp3.meta": {
+      "time": 1756900340213.8374
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\Cow.mp3.meta": {
+      "time": 1756900340213.8374
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\Character.mp3.meta": {
+      "time": 1756900340211.8313
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\Coins_Collected - Copy.mp3.meta": {
+      "time": 1756900340212.8362
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\Drop.mp3.meta": {
+      "time": 1756900340214.837
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\Cow_2.mp3.meta": {
+      "time": 1756900340214.837
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\fail.mp3.meta": {
+      "time": 1756900340221.8486
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\Healing.mp3.meta": {
+      "time": 1756900340215.8364
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\Fail 2.png.meta": {
+      "time": 1756900340215.8364
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\npc_Nam.mp3.meta": {
+      "time": 1756900340221.8486
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\npc_Nu.mp3.meta": {
+      "time": 1756900340222.8535
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\fail stamp.png.meta": {
+      "time": 1756900340220.3445
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\pig_1.mp3.meta": {
+      "time": 1756900340222.8535
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\pig_2.mp3.meta": {
+      "time": 1756900340223.8528
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\Pop_1.mp3.meta": {
+      "time": 1756900340217.34
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\Pop.mp3.meta": {
+      "time": 1756900340217.34
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\sfx_lv_up.mp3.meta": {
+      "time": 1756900340223.8528
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\SoundBg_1.mp3.meta": {
+      "time": 1756900340218.3452
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\water.mp3.meta": {
+      "time": 1756900340223.8528
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\Win.mp3.meta": {
+      "time": 1756900340219.3445
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\Wrong.mp3.meta": {
+      "time": 1756900340219.3445
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\effect\\particle_texture.plist.meta": {
+      "time": 1756900340286.1775
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\effect\\particle_texture.png.meta": {
+      "time": 1756900340286.1775
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Font\\Asap_Condensed-ExtraBold.ttf.meta": {
+      "time": 1756903398443.8699
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Font\\Insanibu.ttf.meta": {
+      "time": 1756901672304.8752
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Particle\\atom.png.meta": {
+      "time": 1756900340225.8533
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Particle\\c_000.png.meta": {
+      "time": 1756900340227.3623
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Particle\\c_001.png.meta": {
+      "time": 1756900340228.3687
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Particle\\c_003.png.meta": {
+      "time": 1756900340229.3677
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Particle\\c_002.png.meta": {
+      "time": 1756900340228.3687
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Particle\\Particle-001.prefab.meta": {
+      "time": 1756900340224.8528
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Particle\\particle-add_1.mtl.meta": {
+      "time": 1756900340231.3687
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Particle\\c_004.png.meta": {
+      "time": 1756900340229.3677
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Particle\\c_005.png.meta": {
+      "time": 1756900340230.3677
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Particle\\particle-add_2.mtl.meta": {
+      "time": 1756900340232.376
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Particle\\particle-add_smoke.mtl.meta": {
+      "time": 1756900340232.376
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Particle\\c_006.png.meta": {
+      "time": 1756900340231.3687
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Particle\\c_007.png.meta": {
+      "time": 1756900340231.3687
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Particle\\Particle.prefab.meta": {
+      "time": 1756900340225.8533
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Prefab\\BoxFragment.prefab.meta": {
+      "time": 1756989632361.1133
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Prefab\\Tutorial_0.prefab.meta": {
+      "time": 1756900340234.375
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Scene\\Game.scene.meta": {
+      "time": 1756900340236.3767
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Scene\\scene.scene.meta": {
+      "time": 1756900340236.3767
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Texture\\particle-add-001.mtl.meta": {
+      "time": 1756989632370.9634
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Particle\\smoke.png.meta": {
+      "time": 1756900340233.3735
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Texture\\particle-add.mtl.meta": {
+      "time": 1756989632370.9634
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Particle\\smokepuff.png.meta": {
+      "time": 1756900340233.3735
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Texture\\coin.png.meta": {
+      "time": 1756989632367.9592
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Texture\\coin2.png.meta": {
+      "time": 1756989632369.9634
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Animation\\Explosion\\Energy 016 Hit Explosion_00003.png.meta": {
+      "time": 1756900340199.3071
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Animation\\Explosion\\Energy 016 Hit Explosion_00005.png.meta": {
+      "time": 1756900340199.3071
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Animation\\Explosion\\Energy 016 Hit Explosion_00009.png.meta": {
+      "time": 1756900340200.307
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Animation\\Explosion\\Energy 016 Hit Explosion_00007.png.meta": {
+      "time": 1756900340200.307
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Animation\\Explosion\\Energy 016 Hit Explosion_00011.png.meta": {
+      "time": 1756900340200.307
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Animation\\Explosion\\Energy 016 Hit Explosion_00013.png.meta": {
+      "time": 1756900340201.8108
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Animation\\Explosion\\Energy 016 Hit Explosion_00017.png.meta": {
+      "time": 1756900340202.816
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Animation\\Explosion\\Energy 016 Hit Explosion_00019.png.meta": {
+      "time": 1756900340202.816
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Animation\\Explosion\\Energy 016 Hit Explosion_00015.png.meta": {
+      "time": 1756900340201.8108
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Animation\\Explosion\\Energy 016 Hit Explosion_00021.png.meta": {
+      "time": 1756900340203.8157
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Animation\\Explosion\\Energy 016 Hit Explosion_00025.png.meta": {
+      "time": 1756900340204.816
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Animation\\Explosion\\Energy 016 Hit Explosion_00029.png.meta": {
+      "time": 1756900340205.8154
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Animation\\Explosion\\Energy 016 Hit Explosion_00023.png.meta": {
+      "time": 1756900340203.8157
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Animation\\Explosion\\Energy 016 Hit Explosion_00027.png.meta": {
+      "time": 1756900340205.8154
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Animation\\Explosion\\Energy 016 Hit Explosion_00031.png.meta": {
+      "time": 1756900340205.8154
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Animation\\Explosion\\Explosion.anim.meta": {
+      "time": 1756900340207.3193
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\BGM & SFX\\Build_Meta_Attack_Broke_Shield.wav.meta": {
+      "time": 1756989632124.9888
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\BGM & SFX\\Build_Meta_Attack_Popup_Result.wav.meta": {
+      "time": 1756989632129.4983
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Animation\\Explosion\\Energy 016 Hit Explosion_00033.png.meta": {
+      "time": 1756900340207.3193
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\BGM & SFX\\Build_Meta_Attack_Lightning.wav.meta": {
+      "time": 1756989632128.4988
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\BGM & SFX\\Build_Meta_Attack_Ready.wav.meta": {
+      "time": 1756989632134.5017
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\BGM & SFX\\Build_Meta_Point_Fly.wav.meta": {
+      "time": 1756989632140.0107
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\BGM & SFX\\Build_Meta_Complete.wav.meta": {
+      "time": 1756989632139.0112
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\BGM & SFX\\Build_Meta_Attack_Success.wav.meta": {
+      "time": 1756989632137.0056
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\BGM & SFX\\Build_Meta_Point_Get.wav.meta": {
+      "time": 1756989632141.0103
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\BGM & SFX\\Build_Meta_Tool.wav.meta": {
+      "time": 1756989632142.0122
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\BGM & SFX\\Chips_Simple_Earn.wav.meta": {
+      "time": 1756989632144.0115
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\BGM & SFX\\Earn_Card.wav.meta": {
+      "time": 1756989632146.0105
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\BGM & SFX\\Buy_In_Flying.wav.meta": {
+      "time": 1756989632144.0115
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\BGM & SFX\\Earn_Reward_Chips.wav.meta": {
+      "time": 1756989632149.4905
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\BGM & SFX\\Earn_Reward_Box.wav.meta": {
+      "time": 1756989632147.0105
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\BGM & SFX\\Earn_Reward_Level.wav.meta": {
+      "time": 1756989632150.4905
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\BGM & SFX\\Earn_Reward_Shield.wav.meta": {
+      "time": 1756989632152.4883
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\BGM & SFX\\Earn_Reward_Sticker.wav.meta": {
+      "time": 1756989632154.4888
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\BGM & SFX\\Earn_Reward_Sticker_Pack.wav.meta": {
+      "time": 1756989632156.9924
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\BGM & SFX\\Heads_Up_Fold.wav.meta": {
+      "time": 1756989632160.9976
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\BGM & SFX\\Heads_Up_Chest_Open.wav.meta": {
+      "time": 1756989632159.9983
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\BGM & SFX\\Heads_Up_Money_Rain.wav.meta": {
+      "time": 1756989632165.9998
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\BGM & SFX\\Money_Flying.wav.meta": {
+      "time": 1756989632174.5063
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\BGM & SFX\\Shield_Appear.wav.meta": {
+      "time": 1756989632175.5076
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\BGM & SFX\\Loading_Cloud.wav.meta": {
+      "time": 1756989632167.505
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\BGM & SFX\\Shield_Arrive.wav.meta": {
+      "time": 1756989632175.5076
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\BGM & SFX\\Shield_Fly.wav.meta": {
+      "time": 1756989632177.012
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\BGM & SFX\\Table_Chip_Bet_01.wav.meta": {
+      "time": 1756989632245.8242
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\BGM & SFX\\Table_Chip_Bet_02.wav.meta": {
+      "time": 1756989632246.8237
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\BGM & SFX\\Table_Chip Win Collect.wav.meta": {
+      "time": 1756989632244.8245
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\BGM & SFX\\Table_Ambience.wav.meta": {
+      "time": 1756989632244.8245
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\BGM & SFX\\Table_Chip_Bet_03.wav.meta": {
+      "time": 1756989632248.8665
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\BGM & SFX\\Table_Chip_Bet_05.wav.meta": {
+      "time": 1756989632249.8613
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\BGM & SFX\\Table_Chip_Clear.wav.meta": {
+      "time": 1756989632250.8596
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\BGM & SFX\\Table_Chip_Dealer Win Collect.wav.meta": {
+      "time": 1756989632251.8594
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\BGM & SFX\\Table_Chip_Repeat.wav.meta": {
+      "time": 1756989632252.8591
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\BGM & SFX\\Table_My_Turn.wav.meta": {
+      "time": 1756989632254.8591
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\BGM & SFX\\Tournament_Curtain.wav.meta": {
+      "time": 1756989632255.8596
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\BGM & SFX\\Table_Fold.wav.meta": {
+      "time": 1756989632253.8594
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\BGM & SFX\\Tournament_Popup_Congratulations.wav.meta": {
+      "time": 1756989632257.891
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\BGM & SFX\\Tournament_Popup_Result.wav.meta": {
+      "time": 1756989632259.8928
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\BGM & SFX\\UI_Button_Tab.wav.meta": {
+      "time": 1756989632268.4194
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\BGM & SFX\\UI_Button_Close.wav.meta": {
+      "time": 1756989632261.8926
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\BGM & SFX\\UI_Button_Normal.wav.meta": {
+      "time": 1756989632263.891
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\BGM & SFX\\UI_Coin_Riser_Loop.wav.meta": {
+      "time": 1756989632274.4534
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\BGM & SFX\\UI_Coin_Riser_End.wav.meta": {
+      "time": 1756989632272.4575
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\BGM & SFX\\UI_Wheel_Pin.wav.meta": {
+      "time": 1756989632284.484
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\BGM & SFX\\UI_Title.wav.meta": {
+      "time": 1756989632283.4834
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\BGM & SFX\\Vox_Big_Win.wav.meta": {
+      "time": 1756989632288.993
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\BGM & SFX\\Vox_Dealer_Win.wav.meta": {
+      "time": 1756989632289.9941
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\BGM & SFX\\Vox_Epic_Win.wav.meta": {
+      "time": 1756989632295.505
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\BGM & SFX\\Vox_Five_Of_A_Kind.wav.meta": {
+      "time": 1756989632297.0083
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\BGM & SFX\\Vox_Flush.wav.meta": {
+      "time": 1756989632299.0176
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\BGM & SFX\\Vox_Four_Of_A_Kind.wav.meta": {
+      "time": 1756989632300.015
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\BGM & SFX\\Vox_Full_House.wav.meta": {
+      "time": 1756989632301.0127
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\BGM & SFX\\Vox_Grand_Jackpot.wav.meta": {
+      "time": 1756989632308.034
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\BGM & SFX\\Vox_High_Card.wav.meta": {
+      "time": 1756989632309.034
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\BGM & SFX\\Vox_Major_Jackpot.wav.meta": {
+      "time": 1756989632315.6052
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\BGM & SFX\\Vox_Mega_Jackpot.wav.meta": {
+      "time": 1756989632322.6206
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\BGM & SFX\\Vox_Mega_Win.wav.meta": {
+      "time": 1756989632327.1238
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\BGM & SFX\\Vox_Mini_Jackpot.wav.meta": {
+      "time": 1756989632332.5625
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\BGM & SFX\\Vox_Minor_Jackpot.wav.meta": {
+      "time": 1756989632338.0688
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\BGM & SFX\\Vox_One_Pair.wav.meta": {
+      "time": 1756989632339.0686
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\BGM & SFX\\Vox_Royal_Flush.wav.meta": {
+      "time": 1756989632340.0713
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\BGM & SFX\\Vox_Straight.wav.meta": {
+      "time": 1756989632341.0693
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\BGM & SFX\\Vox_Straight_Flush.wav.meta": {
+      "time": 1756989632343.579
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\BGM & SFX\\Vox_Super_Big_Win.wav.meta": {
+      "time": 1756989632349.0981
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\BGM & SFX\\Vox_Super_Mega_Win.wav.meta": {
+      "time": 1756989632355.6042
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\BGM & SFX\\Vox_Three_Of_A_Kind.wav.meta": {
+      "time": 1756989632358.1138
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\BGM & SFX\\Vox_Two_Pair.wav.meta": {
+      "time": 1756989632359.1138
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\effect\\changeColor\\changeGreen.prefab.meta": {
+      "time": 1756900340281.169
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\effect\\changeColor\\greenLight01.mtl.meta": {
+      "time": 1756900340282.176
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\effect\\changeColor\\greenStar.mtl.meta": {
+      "time": 1756900340282.176
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\effect\\changeColor\\LevelUp.mtl.meta": {
+      "time": 1756900340280.1133
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\BGM & SFX\\Vox_You_Win.wav.meta": {
+      "time": 1756989632361.1133
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\effect\\levelUp\\lightQ.anim.meta": {
+      "time": 1756900340284.1748
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\effect\\Gold\\particle_texture.plist.meta": {
+      "time": 1756989632370.9634
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\effect\\levelUp\\lightQ.mtl.meta": {
+      "time": 1756900340284.1748
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\effect\\changeColor\\upLight01.png.meta": {
+      "time": 1756900340283.1753
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\effect\\changeColor\\lightQ.png.meta": {
+      "time": 1756900340283.1753
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\effect\\levelUp\\lightQ.prefab.meta": {
+      "time": 1756900340285.1758
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\effect\\Gold\\particle_texture.png.meta": {
+      "time": 1756987000843.522
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Textures\\All\\All_in.png.meta": {
+      "time": 1756901430005.5264
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Textures\\All\\bar.png.meta": {
+      "time": 1756903200195.9644
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Textures\\All\\bar_1.png.meta": {
+      "time": 1756901429999.996
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Textures\\All\\btn_collect.png.meta": {
+      "time": 1756912838965.2222
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Textures\\All\\Bet_Nx.png.meta": {
+      "time": 1756901430025.6382
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Textures\\All\\card_10_2.png.meta": {
+      "time": 1756906625486.6738
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Textures\\All\\card_10_3.png.meta": {
+      "time": 1756901430059.809
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Textures\\All\\card_3.png.meta": {
+      "time": 1756900340274.5967
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Textures\\All\\card_A.png.meta": {
+      "time": 1756901430072.8784
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Textures\\All\\Card_Back.png.meta": {
+      "time": 1756994850182.8074
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Textures\\All\\Card_Back_D.png.meta": {
+      "time": 1756994850169.752
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Textures\\All\\Card_K.png.meta": {
+      "time": 1756906534356.3804
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Textures\\All\\Card_J.png.meta": {
+      "time": 1756906530976.1482
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Textures\\All\\Card_Q.png.meta": {
+      "time": 1756906537637.5762
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Textures\\All\\car_5.png.meta": {
+      "time": 1756901430109.6094
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Textures\\All\\car_8.png.meta": {
+      "time": 1756901430122.679
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Textures\\All\\Check.png.meta": {
+      "time": 1756901430130.7131
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Textures\\All\\chip_1.png.meta": {
+      "time": 1756912838975.749
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Textures\\All\\chip.png.meta": {
+      "time": 1756900340275.5964
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Textures\\All\\chip_bet.png.meta": {
+      "time": 1756904865744.604
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Textures\\All\\Dealer_profile.png.meta": {
+      "time": 1756900340265.5571
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Textures\\All\\dollar_0.png.meta": {
+      "time": 1756900340275.5964
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Textures\\All\\dollar_1.png.meta": {
+      "time": 1756912839002.3132
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Textures\\All\\HandPointer.png.meta": {
+      "time": 1756907455767.3496
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Textures\\All\\head.png.meta": {
+      "time": 1756994850249.19
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Textures\\All\\icon_3.png.meta": {
+      "time": 1756912838963.222
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Textures\\All\\logo.png.meta": {
+      "time": 1756994850257.715
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Textures\\All\\notiRed.png.meta": {
+      "time": 1756901430175.4011
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Textures\\All\\outLine.png.meta": {
+      "time": 1756906783812.0254
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Textures\\All\\textures.pac.meta": {
+      "time": 1756995991723.0974
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Textures\\All\\play now_yellow.png.meta": {
+      "time": 1756900340278.1143
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Textures\\All\\Play.png.meta": {
+      "time": 1756901430203.531
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Textures\\All\\plus.png.meta": {
+      "time": 1756900340279.1133
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Textures\\All\\title_royal_flush.png.meta": {
+      "time": 1756911010755.257
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Textures\\All\\X.png.meta": {
+      "time": 1756900340271.075
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Textures\\Tutorial\\dot.png.meta": {
+      "time": 1756900340267.0647
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Textures\\Card\\cards.png.meta": {
+      "time": 1756900340264.5576
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Textures\\BG\\bg.jpg.meta": {
+      "time": 1756900340260.0388
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Textures\\Tutorial\\hand1.png.meta": {
+      "time": 1756900340268.074
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Textures\\Tutorial\\hand2.png.meta": {
+      "time": 1756900340269.077
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Textures\\BG\\bg_1.jpg.meta": {
+      "time": 1756995772933.9087
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Textures\\Tutorial\\t2.png.meta": {
+      "time": 1756900340270.074
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\BGM & SFX\\BGM\\Table_BGM.mp3.meta": {
+      "time": 1756989632122.991
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\BGM & SFX\\BGM\\Table_BGM_1.mp3.meta": {
+      "time": 1756995014224.7183
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\BGM & SFX\\MP3\\Bonus_Win.mp3.meta": {
+      "time": 1756989632169.5066
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\BGM & SFX\\MP3\\Card_Flip.mp3.meta": {
+      "time": 1756989632169.5066
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\BGM & SFX\\MP3\\Earn_Reward_Money.mp3.meta": {
+      "time": 1756989632170.5078
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\BGM & SFX\\MP3\\Table_Check.mp3.meta": {
+      "time": 1756989632170.5078
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\BGM & SFX\\MP3\\Table_Chip_All_In.mp3.meta": {
+      "time": 1756989632171.507
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Audio\\BGM & SFX\\MP3\\Table_Chip_Bet_04.mp3.meta": {
+      "time": 1756989632171.507
+    },
+    "C:\\Users\\duytv\\Desktop\\Playable_Poker\\assets\\Textures\\Card\\cards.plist.meta": {
+      "time": 1756900340262.5613
     }
   },
   "missing": {
