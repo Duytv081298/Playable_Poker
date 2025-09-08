@@ -200,7 +200,6 @@ export class GameController extends Component {
     showParticleCoin() {
         this.coinUI.active = true;
         let particles: ParticleSystem[] = this.coinUI.getComponentsInChildren(ParticleSystem);
-        console.log(particles);
         particles.forEach(particle => {
             particle.play();
         });

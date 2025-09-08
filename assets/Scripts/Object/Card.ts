@@ -1,4 +1,4 @@
-import { _decorator, Component, Node, tween, Tween, UIOpacity, Vec3 } from 'cc';
+import { _decorator, Color, Component, Node, ParticleSystem, Sprite, tween, Tween, UIOpacity, Vec3 } from 'cc';
 import { Constant } from '../Config/Constant';
 import { SoundManager } from '../PlayableAads/SoundManager';
 const { ccclass, property } = _decorator;
@@ -12,7 +12,14 @@ export class Card extends Component {
     card_front: Node = null;
 
     @property(UIOpacity)
+    uIOpacity: UIOpacity = null;
+
+    @property(UIOpacity)
     outLine: UIOpacity = null;
+
+
+    @property(Node)
+    particle: Node = null;
     isActive: boolean = false;
 
     defaultScale: Vec3 = Vec3.ONE;
@@ -36,6 +43,7 @@ export class Card extends Component {
     }
     showCard() {
         if (this.isActive) return;
+        this.showParticle();
         this.isActive = true;
 
 
@@ -58,7 +66,15 @@ export class Card extends Component {
     }
 
     showOutLine() {
-        if (this.outLine === null) return;
+        if (this.outLine === null) {
+            let sprite: Sprite = this.card_front.getComponent(Sprite);
+            sprite.color = new Color(73, 73, 73);
+            this.uIOpacity.opacity = 240;
+            // tween(this.uIOpacity)
+            //     .to(0.15, { opacity: 180 })
+            //     .start()
+            return;
+        };
         if (this.outLine.node.active) return;
         Tween.stopAllByTarget(this.outLine);
         this.outLine.node.active = true;
@@ -69,6 +85,14 @@ export class Card extends Component {
                     .to(0.35, { opacity: 180 })
             )
             .start()
+    }
+
+    showParticle() {
+        if (this.particle === null) return;
+        let particles: ParticleSystem[] = this.particle.getComponentsInChildren(ParticleSystem);
+        particles.forEach(particle => {
+            particle.play();
+        });
     }
 }
 

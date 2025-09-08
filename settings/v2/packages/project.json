@@ -12,6 +12,10 @@
     {
       "name": "FX",
       "value": 1
+    },
+    {
+      "name": "FX_2",
+      "value": 2
     }
   ],
   "physics": {
