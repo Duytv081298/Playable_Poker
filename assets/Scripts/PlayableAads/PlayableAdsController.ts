@@ -5,8 +5,8 @@ import { SoundManager } from './SoundManager';
 import super_html_playable from './super_html/super_html/super_html_playable';
 
 const { ccclass, property, executionOrder } = _decorator;
-const androidUrl = "https://play.google.com/store/apps/details?id=com.dreamy.harvest.farm.adventure";
-const iosUrl = "https://apps.apple.com/us/app/dreamy-harvest-farm-island/id6749031927";
+const androidUrl = "https://play.google.com/store/apps/details?id=com.bagelcode.upg";
+const iosUrl = "https://play.google.com/store/apps/details?id=com.bagelcode.upg";
 
 @ccclass('PlayableAdsController')
 @executionOrder(0)
