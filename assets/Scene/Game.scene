@@ -722,7 +722,7 @@
     "_enabled": true,
     "__prefab": null,
     "_clip": {
-      "__uuid__": "fe2ccd09-0ae3-4c47-bf85-7f19d191d78e",
+      "__uuid__": "a210aca6-f76e-44df-b9a9-52e018002475",
       "__expectedType__": "cc.AudioClip"
     },
     "_loop": true,
@@ -862,7 +862,7 @@
     "_priority": 1000,
     "_fov": 45,
     "_fovAxis": 0,
-    "_orthoHeight": 960,
+    "_orthoHeight": 960.0000000000001,
     "_near": 1,
     "_far": 2000,
     "_color": {
@@ -7782,7 +7782,7 @@
     "_priority": 3000,
     "_fov": 45,
     "_fovAxis": 0,
-    "_orthoHeight": 960,
+    "_orthoHeight": 960.0000000000001,
     "_near": 1,
     "_far": 3000,
     "_color": {
@@ -8493,7 +8493,7 @@
     "_contentSize": {
       "__type__": "cc.Size",
       "width": 1080,
-      "height": 1920
+      "height": 1920.0000000000002
     },
     "_anchorPoint": {
       "__type__": "cc.Vec2",
@@ -14784,7 +14784,7 @@
     "_contentSize": {
       "__type__": "cc.Size",
       "width": 1080,
-      "height": 1920
+      "height": 1920.0000000000002
     },
     "_anchorPoint": {
       "__type__": "cc.Vec2",
@@ -14953,7 +14953,7 @@
     "_priority": 2000,
     "_fov": 45,
     "_fovAxis": 0,
-    "_orthoHeight": 960,
+    "_orthoHeight": 960.0000000000001,
     "_near": 1,
     "_far": 3000,
     "_color": {
@@ -14998,7 +14998,7 @@
     "_contentSize": {
       "__type__": "cc.Size",
       "width": 1080,
-      "height": 1920
+      "height": 1920.0000000000002
     },
     "_anchorPoint": {
       "__type__": "cc.Vec2",
