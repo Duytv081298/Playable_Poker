@@ -2,7 +2,6 @@ import { _decorator, Camera, Component, easing, Game, game, Node, tween, Vec3 } 
 import { UIManager } from './UIManager';
 import { StateBase } from '../State/StateBase';
 import { AttackScene } from '../State/AttackScene';
-import { AudioManager } from 'db://assets/Scripts/Controller/AudioManager';
 const { ccclass, property } = _decorator;
 
 enum GameState {
@@ -104,8 +103,8 @@ export class GameManager extends Component {
             this.states[this._state - 1].node.active = false;
             this.states[this._state].node.active = true;
 
-            UIManager.instance.chipUI.active = false;
-            UIManager.instance.moneyUI.active = false;
+            // UIManager.instance.chipUI.active = false;
+            // UIManager.instance.moneyUI.active = false;
 
             UIManager.instance.attackUI.active = true;
         });

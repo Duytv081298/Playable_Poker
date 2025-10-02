@@ -1,5 +1,6 @@
 import { _decorator, Component, easing, Node, tween, Vec3 } from 'cc';
-import { AudioManager } from '../../Scripts/Controller/AudioManager';
+import { SoundManager } from '../../Scripts/PlayableAads/SoundManager';
+import { Constant } from '../../Scripts/Config/Constant';
 const { ccclass, property } = _decorator;
 
 @ccclass('CloudTransition')
@@ -20,13 +21,12 @@ export class CloudTransition extends Component {
                 .to(0.6, { position: pos }, { easing: easing.sineOut })
                 .call(() => {
                     if (i === this.node.children.length - 1) {
-                        callback && callback();
+                        callback?.();
                     }
                 })
                 .start();
         });
-
-        AudioManager.instance.playSoundFX('Loading_Cloud');
+        SoundManager.instance().playEffect(Constant.LOADING_CLOUD);
     }
 
     onUncoverAnimationFinish() {

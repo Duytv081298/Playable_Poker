@@ -59,24 +59,23 @@ export class SoundManager {
 
     playEffectLoop(nameSound: string, volume: number = -1) {
         if (!MainData.instance().isPlaySound || nameSound === "") return;
-        // console.log("playEffect", nameSound);
 
         const clip = this.clips.get(nameSound);
         if (clip) {
-            let v = volume == -1 ? clip.volume : volume;
+            clip.volume = -1 ? clip.volume : volume;
+            clip.loop = true
             clip.play()
         }
     }
     stopEffectLoop(nameSound: string, volume: number = -1) {
         if (!MainData.instance().isPlaySound || nameSound === "") return;
-        // console.log("playEffect", nameSound);
-
         const clip = this.clips.get(nameSound);
         if (clip) {
-        let v = volume == -1 ? clip.volume : volume;
+            clip.loop = false
             clip.stop()
         }
     }
+
 
 
     private lastPlayTimes: Map<string, number> = new Map();

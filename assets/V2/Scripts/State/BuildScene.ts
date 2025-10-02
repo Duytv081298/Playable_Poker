@@ -3,6 +3,8 @@ import { StateBase } from './StateBase';
 import { GameManager } from '../Manager/GameManager';
 import { UIManager } from '../Manager/UIManager';
 import { BuildingFX } from '../BuildingFX';
+import { Constant } from 'db://assets/Scripts/Config/Constant';
+import { SoundManager } from 'db://assets/Scripts/PlayableAads/SoundManager';
 const { ccclass, property } = _decorator;
 
 @ccclass('BuildScene')
@@ -48,8 +50,8 @@ export class BuildScene extends StateBase {
             buildFX.destroy();
         }, 1.2)
 
-        // AudioManager.instance.playSoundFX(Constant.SFX_UI_Click);
-        // AudioManager.instance.playSoundFX(Constant.SFX_Build)
+        SoundManager.instance().playEffect(Constant.SFX_UI_Click);
+        SoundManager.instance().playEffect(Constant.SFX_Build);
 
         let sp = this.objects[index].getComponent(Sprite);
         sp.color = new Color(255, 255, 255, 0);
@@ -93,7 +95,7 @@ export class BuildScene extends StateBase {
             this.bankNoteDrop.active = true;
 
             this.scheduleOnce(() => {
-                // AudioManager.instance.playSoundFX(Constant.SFX_Win)
+                SoundManager.instance().playEffect(Constant.SFX_Win);
             }, 0.75)
 
             tween(this.Bg)

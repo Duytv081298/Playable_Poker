@@ -9,6 +9,13 @@ export class Constant {
     public static SFX_CHECK = 'Table_Check';
     public static SFX_ALL_IN = 'Table_Chip_All_In';
     public static SFX_BET = 'Table_Chip_Bet_04';
+    public static readonly SFX_Attack_Popup = "Build_Meta_Attack_Popup_Result"
+    public static readonly SFX_UI_Click = "UI_Button_Normal"
+    public static readonly SFX_Attack_Lightning = "Build_Meta_Attack_Lightning";
+    public static readonly SFX_Build = "Build_Meta_Tool"
+    public static readonly SFX_Win = "Bonus_Win_2"
+    public static readonly SFX_UI_Tab = "UI_Button_Tab"
+    public static readonly LOADING_CLOUD = "LOADING_CLOUD"
 }
 
 

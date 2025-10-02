@@ -19,7 +19,6 @@ export class GameController extends Component {
     @property(RoyalFlush)
     royalFlush: RoyalFlush = null;
 
-    @property(Node)
     @property(Card)
     listCardDealer: Card[] = [];
     @property(Card)

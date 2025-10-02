@@ -5,6 +5,8 @@ const { ccclass, property } = _decorator;
 export class ButtonController extends Component {
     @property(Node)
     buttonLobby: Node = null;
+    @property(Node)
+    buttonLobby_V2: Node = null;
 
     @property(Node)
     buttonPreFlop: Node = null;
@@ -31,6 +33,7 @@ export class ButtonController extends Component {
         this.disableButton.active = true;
 
         this.buttonLobby.active = false;
+        this.buttonLobby_V2.active = false;
         this.buttonPreFlop.active = false;
         this.buttonFlop.active = false;
         this.buttonTurn.active = false;
@@ -53,6 +56,12 @@ export class ButtonController extends Component {
     showButtonLobby() {
         this.clearAllButton();
         this.buttonLobby.active = true;
+        this.animationShow();
+    }
+    showButtonLobby_V2() {
+        this.disableButton.active = false;
+        this.clearAllButton();
+        this.buttonLobby_V2.active = true;
         this.animationShow();
     }
     showButtonPreFlop() {

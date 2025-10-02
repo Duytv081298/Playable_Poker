@@ -20,17 +20,19 @@ export class Chip extends Component {
         this.labelChip.string = `${this.temp_amountChip}`;
     }
 
-    updateChip(amount: number = 10) {
+    updateChip(amount: number = 10, animation: boolean = true) {
         const prev = this.temp_amountChip;
         this.amountChip += amount;
-        this.playChipAnimation(prev, this.amountChip);
+        if (animation) this.playChipAnimation(prev, this.amountChip);
+        else this.labelChip.string = `${this.amountChip}`;
     }
 
-    downChip(amount: number = 10) {
+    downChip(amount: number = 10, animation: boolean = true) {
         const prev = this.temp_amountChip;
         this.amountChip -= amount;
         if (this.amountChip < 0) this.amountChip = 0;
-        this.playChipAnimation(prev, this.amountChip);
+        if (animation) this.playChipAnimation(prev, this.amountChip);
+        else this.labelChip.string = `${this.amountChip}`;
     }
 
     private playChipAnimation(from: number, to: number) {

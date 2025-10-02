@@ -3,7 +3,8 @@ import { StateBase } from './StateBase';
 import { UIManager } from '../Manager/UIManager';
 import { GameManager } from '../Manager/GameManager';
 import { PlayFX } from '../PlayFX';
-import { AudioManager } from 'db://assets/Scripts/Controller/AudioManager';
+import { SoundManager } from 'db://assets/Scripts/PlayableAads/SoundManager';
+import { Constant } from 'db://assets/Scripts/Config/Constant';
 const { ccclass, property } = _decorator;
 
 @ccclass('AttackScene')
@@ -72,7 +73,8 @@ export class AttackScene extends StateBase {
             }
         });
 
-        // AudioManager.instance.playSoundFX(Constant.SFX_UI_Click)
+
+        SoundManager.instance().playEffect(Constant.SFX_UI_Click);
 
         this.onHandleAttack(clickedNode.parent)
     }
@@ -86,7 +88,7 @@ export class AttackScene extends StateBase {
             .to(0.5, { scale: new Vec3(0.92, 0.92, 0.92) }, { easing: easing.backInOut })
             .call(() => {
 
-                // AudioManager.instance.playSoundFX(Constant.SFX_Attack_Lightning);
+                SoundManager.instance().playEffect(Constant.SFX_Attack_Lightning);
                 // let lightning = instantiate(this.lightningPrefab);
                 // lightning.setParent(this.hammerNode)
                 // lightning.setWorldPosition(this.hammerNode.getWorldPosition().clone().add3f(0, 1270, 0));
@@ -109,7 +111,7 @@ export class AttackScene extends StateBase {
 
 
         this.scheduleOnce(() => {
-            // AudioManager.instance.playSoundFX(Constant.SFX_Attack_Lightning)
+            SoundManager.instance().playEffect(Constant.SFX_Attack_Lightning);
             target.getComponent(Sprite).color = new Color(151, 0, 0, 255);
 
             let lightning = instantiate(this.lightningPrefab);
@@ -176,7 +178,7 @@ export class AttackScene extends StateBase {
         this.isPressed = true;
 
         GameManager.instance.goToNextState();
-        // AudioManager.instance.playSoundFX(Constant.SFX_UI_Click)
+        SoundManager.instance().playEffect(Constant.SFX_UI_Click);
     }
 }
 
