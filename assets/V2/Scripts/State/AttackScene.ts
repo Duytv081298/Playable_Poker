@@ -89,23 +89,13 @@ export class AttackScene extends StateBase {
             .call(() => {
 
                 SoundManager.instance().playEffect(Constant.SFX_Attack_Lightning);
-                // let lightning = instantiate(this.lightningPrefab);
-                // lightning.setParent(this.hammerNode)
-                // lightning.setWorldPosition(this.hammerNode.getWorldPosition().clone().add3f(0, 1270, 0));
-                // lightning.scale = new Vec3(3, 3, 3)
-                // lightning.eulerAngles = new Vec3(0, 0, 180);
-
                 this.lightningNode.active = true;
-
-
                 this.redSky.node.active = true;
                 tween(this.redSky)
                     .set({ color: new Color(255, 255, 255, 0) })
                     .to(0.4, { color: new Color(255, 255, 255, 255) })
                     .to(0.2, { color: new Color(255, 255, 255, 0) })
                     .start();
-
-
             })
             .start()
 

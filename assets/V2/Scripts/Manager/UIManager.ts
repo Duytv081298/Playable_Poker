@@ -2,6 +2,7 @@ import { _decorator, Component, Label, Node, tween } from 'cc';
 import { CloudTransition } from '../CloudTransition';
 import { SoundManager } from 'db://assets/Scripts/PlayableAads/SoundManager';
 import { Constant } from 'db://assets/Scripts/Config/Constant';
+import { AttackReward } from 'db://assets/Scripts/Controller/AttackReward';
 const { ccclass, property } = _decorator;
 
 @ccclass('UIManager')
@@ -13,8 +14,8 @@ export class UIManager extends Component {
     @property(Node)
     attackCard: Node = null;
 
-    @property(Node)
-    attackReward: Node = null;
+    @property(AttackReward)
+    attackReward: AttackReward = null;
 
     @property(Node)
     VegasUI: Node = null;
@@ -39,12 +40,12 @@ export class UIManager extends Component {
 
 
     showAttackReward() {
-        this.attackReward.active = true;
+        this.attackReward.show();
         SoundManager.instance().playEffect(Constant.SFX_Attack_Popup);
     }
 
     hideAttackReward() {
-        this.attackReward.active = false;
+        this.attackReward.node.active = false;
         this.attackUI.active = false;
 
     }

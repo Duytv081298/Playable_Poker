@@ -17,14 +17,14 @@ export class Chip extends Component {
     protected start(): void {
         this.amountChip = this.startChip;
         this.temp_amountChip = this.amountChip;
-        this.labelChip.string = `${this.temp_amountChip}`;
+        this.labelChip.string =this.formatNumber(this.temp_amountChip);
     }
 
     updateChip(amount: number = 10, animation: boolean = true) {
         const prev = this.temp_amountChip;
         this.amountChip += amount;
         if (animation) this.playChipAnimation(prev, this.amountChip);
-        else this.labelChip.string = `${this.amountChip}`;
+        else this.labelChip.string = this.formatNumber(this.amountChip);
     }
 
     downChip(amount: number = 10, animation: boolean = true) {
@@ -32,13 +32,13 @@ export class Chip extends Component {
         this.amountChip -= amount;
         if (this.amountChip < 0) this.amountChip = 0;
         if (animation) this.playChipAnimation(prev, this.amountChip);
-        else this.labelChip.string = `${this.amountChip}`;
+        else this.labelChip.string = this.formatNumber(this.amountChip);;
     }
 
     private playChipAnimation(from: number, to: number) {
         if (from === to) {
             this.temp_amountChip = to;
-            this.labelChip.string = `${to}`;
+            this.labelChip.string = this.formatNumber(to);
             return;
         }
 
@@ -55,13 +55,16 @@ export class Chip extends Component {
                 onUpdate: (target: { data: number }, ratio: number) => {
                     const t = ratio;
                     const value = from + Math.round(delta * t);
-                    this.labelChip.string = `${value}`;
+                    this.labelChip.string = this.formatNumber(value);
                 }
             })
             .call(() => {
                 this.temp_amountChip = to;
-                this.labelChip.string = `${this.temp_amountChip}`;
+                this.labelChip.string = this.formatNumber(this.temp_amountChip);
             })
             .start();
+    }
+    formatNumber(num: number): string {
+        return num.toLocaleString('en-US');
     }
 }

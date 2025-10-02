@@ -16,6 +16,9 @@ export class Constant {
     public static readonly SFX_Win = "Bonus_Win_2"
     public static readonly SFX_UI_Tab = "UI_Button_Tab"
     public static readonly LOADING_CLOUD = "LOADING_CLOUD"
+
+    public static readonly SFX_BG1 = "bgMusic"
+    public static readonly SFX_BG2 = "bgMusic_2"
 }
 
 

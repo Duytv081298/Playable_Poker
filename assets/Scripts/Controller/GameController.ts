@@ -51,7 +51,7 @@ export class GameController extends Component {
 
 
     onHandlePlay() {
-        SoundManager.instance().playBackgroundMusic();
+        SoundManager.instance().playEffectLoop(Constant.SFX_BG1);
         this.chipGame.downChip(10);
         this.chipBet.updateChip(10);
         this.showAllCardPlayer();

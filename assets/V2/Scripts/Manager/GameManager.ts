@@ -2,6 +2,8 @@ import { _decorator, Camera, Component, easing, Game, game, Node, tween, Vec3 } 
 import { UIManager } from './UIManager';
 import { StateBase } from '../State/StateBase';
 import { AttackScene } from '../State/AttackScene';
+import { Constant } from 'db://assets/Scripts/Config/Constant';
+import { SoundManager } from 'db://assets/Scripts/PlayableAads/SoundManager';
 const { ccclass, property } = _decorator;
 
 enum GameState {
@@ -75,18 +77,18 @@ export class GameManager extends Component {
             case GameState.PokerScene:
                 console.log("Entering Poker Scene");
 
-                // AudioManager.instance.playLoopingSound(Constant.SFX_BG1);
+                SoundManager.instance().playEffectLoop(Constant.SFX_BG1);
 
                 break;
             case GameState.AttackScene:
                 this.onAttacckScene();
-                // AudioManager.instance.stopLoopingSound(Constant.SFX_BG1);
-                // AudioManager.instance.playLoopingSound(Constant.SFX_BG2);
+                SoundManager.instance().stopEffectLoop(Constant.SFX_BG1);
+                SoundManager.instance().playEffectLoop(Constant.SFX_BG2);
                 break;
             case GameState.BuildScene:
                 this.onBuildScene();
-                // AudioManager.instance.stopLoopingSound(Constant.SFX_BG2);
-                // AudioManager.instance.playLoopingSound(Constant.SFX_BG1);
+                SoundManager.instance().stopEffectLoop(Constant.SFX_BG2);
+                SoundManager.instance().playEffectLoop(Constant.SFX_BG1);
                 break;
             case GameState.End:
                 this.onEndGame();
