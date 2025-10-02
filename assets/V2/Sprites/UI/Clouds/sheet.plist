@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>벡터 고급 개체 복사 2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,317},{296,139}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{296,139}}</string>
+				<key>sourceSize</key>
+				<string>{296,139}</string>
+			</dict>
+
+			<key>벡터 고급 개체 복사 3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,580},{264,111}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{264,111}}</string>
+				<key>sourceSize</key>
+				<string>{264,111}</string>
+			</dict>
+
+			<key>벡터 고급 개체 복사.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,580},{264,111}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{264,111}}</string>
+				<key>sourceSize</key>
+				<string>{264,111}</string>
+			</dict>
+
+			<key>벡터 고급 개체-1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{369,177}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{369,177}}</string>
+				<key>sourceSize</key>
+				<string>{369,177}</string>
+			</dict>
+
+			<key>벡터 고급 개체-2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,178},{324,138}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{324,138}}</string>
+				<key>sourceSize</key>
+				<string>{324,138}</string>
+			</dict>
+
+			<key>벡터 고급 개체-3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,811},{252,119}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{252,119}}</string>
+				<key>sourceSize</key>
+				<string>{252,119}</string>
+			</dict>
+
+			<key>벡터 고급 개체-4.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,457},{268,122}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{268,122}}</string>
+				<key>sourceSize</key>
+				<string>{268,122}</string>
+			</dict>
+
+			<key>벡터 고급 개체-5.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,692},{263,118}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{263,118}}</string>
+				<key>sourceSize</key>
+				<string>{263,118}</string>
+			</dict>
+
+			<key>벡터 고급 개체.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,931},{180,56}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{180,56}}</string>
+				<key>sourceSize</key>
+				<string>{180,56}</string>
+			</dict>
+
+		</dict>
+
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>size</key>
+			<string>{512,1024}</string>
+			<key>textureFileName</key>
+			<string>sheet.png</string>
+			</dict>
+		</dict>
+</plist>
