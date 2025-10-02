@@ -75,7 +75,7 @@ export class PokerState extends StateBase {
         this.tutorial.clearTutorial();
         this.buttonController.clearAllButton(true);
         this.scheduleOnce(() => {
-            GameManager.instance.goToNextState()
+            GameManager.instance.showAttackScene();
         }, 1)
 
         SoundManager.instance().playEffect(Constant.SFX_BET);

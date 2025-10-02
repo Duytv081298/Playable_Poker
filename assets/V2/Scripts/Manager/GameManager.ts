@@ -12,21 +12,12 @@ enum GameState {
     BuildScene = 2,
     End = 3,
 }
-
-const androidUrl = "https://play.google.com/store/apps/details?id=com.bagelcode.upg&gl=ph";
-const iosUrl = "https://play.google.com/store/apps/details?id=com.bagelcode.upg&gl=ph";
 @ccclass('GameManager')
 export class GameManager extends Component {
-    @property(StateBase)
-    states: StateBase[] = [];
+    @property(AttackScene)
+    attackScene: AttackScene = null;
 
-    isCanControl: boolean = true;
-    isLose: boolean = false;
-    isWin: boolean = false;
 
-    channel: string = ''
-
-    // Singleton
     private static _ins: GameManager;
     public static get instance(): GameManager {
         return GameManager._ins;
@@ -37,8 +28,6 @@ export class GameManager extends Component {
 
         game.on(Game.EVENT_HIDE, this.hideGame, this);
         game.on(Game.EVENT_SHOW, this.showGame, this);
-        this.channel = this.getChannel();
-        (window as any).gameReady && (window as any).gameReady();
 
         console.log = () => { };
     }
@@ -50,63 +39,11 @@ export class GameManager extends Component {
         game.resume();
     }
 
-    getChannel(): string {
-        (window as any).advChannels = '{{__adv_channels_adapter__}}'
-        return (window as any).advChannels;
-    }
 
-    private _state: GameState = GameState.End;
-
-    public get state(): GameState {
-        return this._state;
-    }
-
-    public set state(newState: GameState) {
-        if (this._state !== newState) {
-            this._state = newState;
-            this.runStateFunction(newState);
-        }
-    }
-
-    protected start(): void {
-        this.state = GameState.PokerScene;
-    }
-
-    private runStateFunction(state: GameState) {
-        switch (state) {
-            case GameState.PokerScene:
-                console.log("Entering Poker Scene");
-
-                SoundManager.instance().playEffectLoop(Constant.SFX_BG1);
-
-                break;
-            case GameState.AttackScene:
-                this.onAttacckScene();
-                SoundManager.instance().stopEffectLoop(Constant.SFX_BG1);
-                SoundManager.instance().playEffectLoop(Constant.SFX_BG2);
-                break;
-            case GameState.BuildScene:
-                this.onBuildScene();
-                SoundManager.instance().stopEffectLoop(Constant.SFX_BG2);
-                SoundManager.instance().playEffectLoop(Constant.SFX_BG1);
-                break;
-            case GameState.End:
-                this.onEndGame();
-                break;
-            default:
-                console.warn("Unknown State");
-                break;
-        }
-    }
-
-    onAttacckScene() {
+    onAttackScene() {
         UIManager.instance.cloudTransition.node.active = true;
         UIManager.instance.cloudTransition.onCoverAnimationFinish(() => {
-            this.states[this._state - 1].node.active = false;
-            this.states[this._state].node.active = true;
-
-            // UIManager.instance.chipUI.active = false;
-            // UIManager.instance.moneyUI.active = false;
+            this.attackScene.node.active = true;
 
             UIManager.instance.attackUI.active = true;
         });
@@ -118,34 +55,16 @@ export class GameManager extends Component {
             .call(() => {
                 UIManager.instance.cloudTransition.onUncoverAnimationFinish();
                 this.scheduleOnce(() => {
-                    this.states[this._state].node.getComponent(AttackScene).onStartState();
+                    this.attackScene.onStartState();
                 }, 0.7)
             })
             .start();
     }
 
-    onBuildScene() {
-        UIManager.instance.cloudTransition.node.active = true;
-        UIManager.instance.hideAttackReward();
-        UIManager.instance.cloudTransition.onCoverAnimationFinish(() => {
-            this.states[this._state - 1].node.active = false;
-            this.states[this._state].node.active = true;
-        });
-
-        this.scheduleOnce(() => {
-            UIManager.instance.cloudTransition.onUncoverAnimationFinish();
-            UIManager.instance.showBuildSceneUI();
-        }, 1.2)
-    }
-
-    onEndGame() {
-        UIManager.instance.showEndSceneUI()
-    }
-
-    public goToNextState() {
-        if (this._state < GameState.End) {
-            this.state = this._state + 1;
-        }
+    showAttackScene() {
+        this.onAttackScene();
+        SoundManager.instance().stopEffectLoop(Constant.SFX_BG1);
+        SoundManager.instance().playEffectLoop(Constant.SFX_BG2);
     }
 
 

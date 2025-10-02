@@ -1,4 +1,4 @@
-import { _decorator, Component, Label, Node, tween } from 'cc';
+import { _decorator, Component, Node } from 'cc';
 import { CloudTransition } from '../CloudTransition';
 import { SoundManager } from 'db://assets/Scripts/PlayableAads/SoundManager';
 import { Constant } from 'db://assets/Scripts/Config/Constant';
@@ -17,14 +17,10 @@ export class UIManager extends Component {
     @property(AttackReward)
     attackReward: AttackReward = null;
 
-    @property(Node)
-    VegasUI: Node = null;
 
     @property(Node)
     attackUI: Node = null;
 
-    @property(Node)
-    completeUI: Node = null;
 
 
     // Singleton
@@ -48,17 +44,6 @@ export class UIManager extends Component {
         this.attackReward.node.active = false;
         this.attackUI.active = false;
 
-    }
-
-    showBuildSceneUI() {
-        this.VegasUI.active = true;
-
-    }
-
-    showEndSceneUI() {
-        this.VegasUI.active = false;
-
-        this.completeUI.active = true;
     }
 
     currentMoney: number = 100000000;

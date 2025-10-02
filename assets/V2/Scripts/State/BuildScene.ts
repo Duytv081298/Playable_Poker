@@ -105,8 +105,8 @@ export class BuildScene extends StateBase {
 
             this.scheduleOnce(() => {
                 this.buildButton[0].node.parent.active = false;
-                GameManager.instance.goToNextState();
-
+                // GameManager.instance.goToNextState();
+// 
                 this.fireworkNode.active = true;
             }, 2)
 

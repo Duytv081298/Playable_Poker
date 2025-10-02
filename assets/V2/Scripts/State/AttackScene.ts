@@ -167,7 +167,7 @@ export class AttackScene extends StateBase {
         if (this.isPressed) return;
         this.isPressed = true;
 
-        GameManager.instance.goToNextState();
+        // GameManager.instance.goToNextState();
         SoundManager.instance().playEffect(Constant.SFX_UI_Click);
     }
 }
